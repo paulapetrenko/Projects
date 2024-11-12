@@ -1,0 +1,943 @@
+,id,type,name,iso_country,latitude_deg,longitude_deg,elevation_ft,gps_code
+11695,35333,small_airport,Cullen Airport,AR,-52.88574,-68.414956,132.0,
+11696,35334,small_airport,Estancia Los Cerros Airport,AR,-54.343,-67.837532,1914.0,
+11697,35335,small_airport,Rio Bellavista Airport,AR,-53.98270034790039,-68.52359771728516,201.0,
+11698,35398,small_airport,Merlo Airport,AR,-32.35820007324219,-65.01740264892578,796.0,
+11699,35399,small_airport,Bragado Airport,AR,-35.145811,-60.480294,196.0,SA2X
+11700,333805,small_airport,Los Rulos Airport,AR,-28.933839,-62.792315,305.0,
+11701,35401,small_airport,Caleta Olivia Airport,AR,-46.37428,-67.59409,37.0,
+11702,42798,small_airport,Aeroclub Chaco Airport,AR,-27.6311,-59.1797,164.0,
+11703,35403,small_airport,Charata Airport,AR,-27.2164,-61.2103,318.0,
+11704,35404,small_airport,General Villegas Airport,AR,-34.995728,-62.999725,383.0,
+11705,35405,small_airport,Los Menucos Airport,AR,-40.817699,-68.074699,2571.0,
+11706,42799,small_airport,Aerofumigaciones Don Alejandro Airport,AR,-33.306157,-60.656387,170.0,
+11707,42800,small_airport,Agro Servicio Yoris Airport,AR,-26.583055,-64.529724,1043.0,
+11708,42801,small_airport,Agroaire Airport,AR,-27.4978,-61.6586,377.0,
+11709,35409,closed,Saenz Peña Airport,AR,-26.81579971313477,-60.44829940795898,20.0,
+11710,35410,closed,(Old) Antoine De Saint Exupery Airport,AR,-40.7401008606,-64.9804992676,85.0,
+11711,35412,small_airport,Valcheta Airport,AR,-40.700001,-66.150002,629.0,
+11712,35413,small_airport,Villa Mercedes Airport,AR,-33.640858,-65.420074,1689.0,
+11713,38694,small_airport,13 De Diciembre Airport,AR,-45.90417,-67.559295,170.0,
+11714,38695,heliport,Abel Monteverde Heliport,AR,-32.9208,-62.4663,2646.0,
+11715,38696,small_airport,Acindar Airport,AR,-33.2647,-60.2842,82.0,
+11716,38697,small_airport,Aeroboero Airport,AR,-30.7286,-62.0078,314.0,
+11717,38698,small_airport,Bahia Blanca Aeroclub Airport,AR,-38.672059,-62.352846,49.0,SA92
+11718,38699,small_airport,Balcarce Aeroclub Airport,AR,-37.9156,-58.3442,393.0,SA20
+11719,38700,small_airport,Cipoletti Aeroclub Airport,AR,-38.8931007385,-67.9886016846,885.0,SAHI
+11720,38701,small_airport,Olavarria Aeroclub Airport,AR,-36.9644012451,-60.2757987976,606.0,
+11721,38702,small_airport,Rauch Airport,AR,-36.771887,-59.057837,308.0,
+11722,38703,small_airport,Tandil Aeroclub Airport,AR,-37.265598,-59.0933,583.0,SA1B
+11723,38704,small_airport,Aerotec Airport,AR,-33.206943512,-68.492225647,2181.0,
+11724,38705,small_airport,Alagro Fumigaciones Airport,AR,-32.8878,-60.8436,114.0,
+11725,38706,small_airport,San Andrés de Giles Airport,AR,-34.470347,-59.42461,167.0,
+11726,38707,small_airport,Alejandro Roca Airport,AR,-33.3488998413,-63.7299995422,688.0,
+11727,38708,small_airport,Alfredo Sanchez Airport,AR,-34.8011,-61.865,328.0,
+11728,38709,small_airport,Algarrobo/La Reforma Airport,AR,-38.7306,-63.2869,219.0,
+11729,38710,small_airport,Allen Airport,AR,-38.958099365200006,-67.8035964966,951.0,
+11730,38711,small_airport,Alta Gracia Airport,AR,-31.6513996124,-64.39389801029999,1748.0,
+11731,38712,small_airport,Alumine Airport,AR,-38.9502983093,-71.0492019653,3819.0,
+11732,38713,small_airport,Alvear Airpark,AR,-33.0467,-60.5969,85.0,
+11733,38714,small_airport,Alvear Airport,AR,-29.064722,-56.541111,226.0,
+11734,38715,small_airport,Ameghino Airport,AR,-34.845619,-62.482648,360.0,SA49
+11735,38716,small_airport,América Airport,AR,-35.5017,-62.99,347.0,SA52
+11736,38717,small_airport,Añatuya Airport,AR,-28.4797000885,-62.8457984924,354.0,
+11737,38718,small_airport,Andacollo Airport,AR,-37.20333480834961,-70.69666290283203,3524.0,
+11738,38719,small_airport,Anibal Brizi Airport,AR,-31.4042,-60.8992,127.0,
+11739,38720,heliport,Arelauquen Heliport,AR,-41.1612,-71.3659,3099.0,
+11740,38721,heliport,Aries Heliport,AR,-52.6831,-68.0419,,
+11741,38722,small_airport,Arrecifes Aeroclub Airport,AR,-34.079724,-60.046412,141.0,
+11742,38723,small_airport,Arribeños Airport,AR,-34.2228,-61.3858,268.0,SA55
+11743,38724,small_airport,Arroyito/Arcor Airport,AR,-31.4221992493,-63.0041999817,485.0,
+11744,38725,heliport,Austral Heliport,AR,-52.8936,-68.3553,127.0,
+11745,38726,heliport,Buenos Aires City Oscar and Juan Gálvez Autodrome Heliport,AR,-34.693929,-58.460403,16.0,
+11746,38727,small_airport,Presidente Avellaneda Airport,AR,-29.1061,-59.6569,147.0,
+11747,38728,small_airport,Ayacucho Airport,AR,-37.1639,-58.4719,221.0,SA58
+11748,38729,heliport,Ayres De Pilar Heliport,AR,-34.4375,-58.7983,45.0,
+11749,38730,heliport,Azcarate Irastorza Heliport,AR,-35.1994,-63.6008,416.0,
+11750,38731,small_airport,B&B Servicios Agropecuarios Airport,AR,-32.1147,-61.6328,239.0,
+11751,38732,heliport,B. Churruca Heliport,AR,-34.6407,-58.4094,19.0,
+11752,38733,small_airport,Baradero Airport,AR,-33.821693,-59.492806,95.0,SA2R
+11753,38734,small_airport,Barrancas Airport,AR,-36.7756004333,-69.8593978882,3481.0,
+11754,38735,small_airport,Basavilbaso Airport,AR,-32.3611,-58.8808,196.0,
+11755,38736,small_airport,Batan Airport,AR,-38.0117,-57.6775,203.0,SA4H
+11756,38737,small_airport,Escobar Aeroclub,AR,-34.2986,-58.7989,13.0,
+11757,38738,small_airport,Bellamar Airport,AR,-38.3858,-58.1336,42.0,
+11758,38739,closed,Benavidez Airport,AR,-34.388054,-58.663887,13.0,
+11759,38740,small_airport,Blondi Airport,AR,-34.61333465576172,-61.02305603027344,262.0,
+11760,38741,small_airport,Gran Ancona Airport,AR,-33.4383,-61.3017,318.0,
+11761,38742,small_airport,Bonetti Airport,AR,-27.604166030900004,-55.8638877869,462.0,
+11762,38743,small_airport,Pablo Sierra Aeroaplicaciones Airport,AR,-30.9294,-62.0506,328.0,
+11763,38744,heliport,Cabaña San Isidro Labrador Heliport,AR,-34.3783,-58.7883,39.0,
+11764,38745,closed,Cabañas Airport,AR,-32.978152,-58.522496,23.0,
+11765,38746,small_airport,Cabildo Airport,AR,-38.4986000061,-61.8843994141,521.0,
+11766,44745,heliport,Ituzaingo / Transener S.A. Heliport,AR,-27.5601,-56.6568,233.0,
+11767,38748,heliport,Cabo Vírgenes Heliport,AR,-52.3278,-68.4092,180.0,
+11768,38749,small_airport,Caleufu Airport,AR,-40.39390182495117,-70.96330261230469,2323.0,
+11769,38750,heliport,Campo De Vuelo Heliport,AR,-31.3689,-64.2636,1515.0,
+11770,38751,small_airport,Canals Airport,AR,-33.5622,-62.8692,387.0,
+11771,38752,small_airport,Cañada de Gomez Airport,AR,-32.808687,-61.36574,268.0,
+11772,38753,small_airport,Cañada Rosquin Airport,AR,-32.0994,-61.5839,219.0,
+11773,38754,small_airport,Cañuelas Airport,AR,-35.1119,-58.7261,98.0,
+11774,38755,small_airport,Aeroclub Capitan Sarmiento,AR,-34.1639,-59.7311,160.0,
+11775,38756,small_airport,Vedia Aeroclub,AR,-34.4817,-61.4903,291.0,
+11776,38757,small_airport,Carhue Airport,AR,-37.1942,-62.7814,360.0,
+11777,38758,small_airport,Carlos Casares Airport,AR,-35.6328,-61.3842,275.0,
+11778,38759,small_airport,Las Ensenadas Airport,AR,-31.4552993774,-64.5263977051,2394.0,
+11779,38760,small_airport,Carlos Tejedor Airport,AR,-35.4256,-62.4697,308.0,
+11780,38761,small_airport,Carmen de Areco Airport,AR,-34.4175,-59.8719,160.0,
+11781,38762,heliport,Casa De Gobierno Heliport,AR,-31.4306,-64.1842,1420.0,
+11782,38763,small_airport,Casilda Airport,AR,-33.0617,-61.21,252.0,
+11783,38764,small_airport,Castelli Airport,AR,-36.11000061035156,-57.86194610595703,33.0,
+11784,38765,small_airport,Castelli Airport,AR,-25.93083381652832,-60.628055572509766,364.0,
+11785,38766,heliport,Centinela Heliport,AR,-34.5822,-58.3744,42.0,
+11786,38767,heliport,Central Nuclear Heliport,AR,-32.2294,-64.44,1738.0,
+11787,38768,heliport,Centro Cívico Grand Bourg Heliport,AR,-24.7806,-65.4514,4132.0,
+11788,38769,small_airport,Cereales Anahi Ruca Airport,AR,-35.6736106873,-63.7180557251,455.0,
+11789,38770,heliport,Cerro Chapelco Heliport,AR,-40.1981,-71.3211,4281.0,
+11790,38771,small_airport,Chacabuco Airport,AR,-34.6069,-60.4097,226.0,
+11791,38772,small_airport,Chacharramendi Airport,AR,-37.340599,-65.646698,951.0,
+11792,38773,small_airport,Chajari Airport,AR,-30.7542,-58.0,173.0,
+11793,38774,small_airport,Chañar Ladeado Airport,AR,-33.3333,-62.0333,367.0,
+11794,38775,small_airport,Chascomús Airport,AR,-35.542621,-58.052137,32.0,
+11795,38776,small_airport,Chivilcoy Airport,AR,-34.9639,-60.0333,173.0,SA4B
+11796,38777,small_airport,Cholila Airport,AR,-42.484722,-71.460556,1883.0,
+11797,38778,small_airport,Cinco Saltos Airport,AR,-38.801666,-68.037224,1171.0,
+11798,38779,heliport,Citefa Heliport,AR,-34.5575,-58.5056,55.0,
+11799,38780,heliport,Ciudad Universitaria Heliport,AR,-31.4406,-64.1894,1443.0,
+11800,38781,heliport,Club Nautico San Isidro Heliport,AR,-34.4614,-58.5003,6.0,
+11801,38782,small_airport,Colón Airport,AR,-33.9231,-61.0461,295.0,
+11802,38783,small_airport,Colon Airport,AR,-32.2614,-58.1556,65.0,
+11803,38784,heliport,Complejo Llao Llao Heliport,AR,-41.0544,-71.5339,2542.0,
+11804,38785,small_airport,Concepcion Del Uruguay Airport,AR,-32.4519,-58.3058,121.0,
+11805,38786,small_airport,Concordia Aeroclub Airport,AR,-31.3042,-58.0153,131.0,
+11806,38787,small_airport,Confluencia Airport,AR,-36.7714004517,-69.5385971069,4964.0,
+11807,38788,small_airport,Coronel Dorrego Airport,AR,-38.7411,-61.2561,393.0,
+11808,38789,small_airport,Coronel Pringles Airport,AR,-38.0066680908,-61.331943512,810.0,SABP
+11809,38790,small_airport,Coronel Vidal Airport,AR,-37.4689,-57.7669,85.0,
+11810,38791,small_airport,Corral De Bustos Airport,AR,-33.2811,-62.1514,393.0,
+11811,38792,small_airport,Santa María Airport,AR,-31.2861,-64.455299,2296.0,
+11812,38793,small_airport,Cruz Alta Airport,AR,-33.0078,-61.8369,318.0,
+11813,38794,small_airport,Curuzu Cuatia Aeroclub Airport,AR,-29.7789,-58.0958,262.0,
+11814,38795,heliport,D.P.A.O. Heliport,AR,-34.9597,-57.8928,62.0,
+11815,38796,small_airport,Fumigaciones Rodriguez Airport,AR,-36.590491,-61.774888,371.0,SAE3
+11816,38797,small_airport,Darregueira Airport,AR,-37.7127990723,-63.1618995667,649.0,
+11817,38798,heliport,Darsena Sur Heliport,AR,-34.6278,-58.3515,16.0,
+11818,38799,small_airport,Dean Funes Airport,AR,-30.3791999817,-64.379699707,2259.0,
+11819,38800,small_airport,Diamante Airport,AR,-32.0161,-60.5825,246.0,
+11820,38801,heliport,Dines (Doctor E. Escudero) Heliport,AR,-34.57257,-58.40045,19.0,
+11821,42802,small_airport,Agrocelta Servicios Aereos Airport,AR,-33.8867,-60.8628,269.0,
+11822,38803,small_airport,Saavedra Airport,AR,-37.750242,-62.33425,1040.0,
+11823,38804,heliport,Ecodyma S.C.A. Heliport,AR,-34.9408,-57.9919,45.0,
+11824,38805,small_airport,Eduardo Castex Airport,AR,-35.8805541992,-64.2738876343,600.0,
+11825,38806,small_airport,El Alamito Airport,AR,-37.27361297607422,-70.38972473144531,3576.0,
+11826,38807,small_airport,Establecimiento El Araza Airport,AR,-36.7756,-57.6414,305.0,
+11827,38808,heliport,El Capricho Heliport,AR,-34.2325,-59.3158,98.0,
+11828,38809,small_airport,El Corcovado Airport,AR,-43.533599853515625,-71.48470306396484,1968.0,
+11829,38810,small_airport,El Gaucho Airport,AR,-32.6294,-61.5444,344.0,
+11830,38811,balloonport,El Manantial Airport,AR,-35.1943,-58.3594,49.0,
+11831,38812,small_airport,El Pajaro Airport,AR,-34.823537,-58.316307,52.0,
+11832,38813,small_airport,El Pampero Airport,AR,-36.5928001404,-64.1866989136,583.0,
+11833,38814,small_airport,El Trebol Airport,AR,-32.2153,-61.7161,301.0,SAFT
+11834,38815,closed,Elizalde Airport,AR,-34.975122,-57.963396,22.0,
+11835,38816,small_airport,Esperanza Airport,AR,-31.4736,-60.8447,124.0,
+11836,38817,small_airport,Esquina Airport,AR,-30.0489,-59.5353,127.0,
+11837,38818,small_airport,Estancia Don Roberto Airport,AR,-34.0013999939,-65.366897583,1430.0,
+11838,38819,heliport,Estancia Haychol Heliport,AR,-38.6481,-70.6775,3447.0,
+11839,38820,heliport,Estancia La Candelaria Heliport,AR,-40.0442,-71.3664,2997.0,
+11840,38821,heliport,Estancia La Chacota Heliport,AR,-35.9133,-62.6417,295.0,
+11841,38822,small_airport,Estancia La Choza Airport,AR,-30.5389,-58.2928,236.0,
+11842,38823,small_airport,Estancia La Laurita Airport,AR,-44.7761116027832,-70.1963882446289,1834.0,
+11843,38824,small_airport,Estancia Llamuco Airport,AR,-38.79944610595703,-70.43472290039062,3924.0,
+11844,38825,small_airport,Estancia Los Cardos Airport,AR,-37.7356,-58.0342,393.0,SA2Q
+11845,38826,small_airport,Estancia Nueva Lubecka Airport,AR,-44.44194412231445,-70.44222259521484,2021.0,
+11846,38827,heliport,Estancia Palitue Heliport,AR,-39.8528,-71.0464,2817.0,
+11847,38828,small_airport,Estancia San Juan Airport,AR,-29.6028,-58.0281,268.0,
+11848,38829,small_airport,Estancia San Ramón Airport,AR,-50.303495,-69.926057,1226.0,
+11849,38830,small_airport,Estancia Santa Ana Airport,AR,-51.680841,-71.9652,665.0,
+11850,38831,heliport,Estancia Santa Isabel Heliport,AR,-39.8847,-70.5136,3116.0,
+11851,38832,small_airport,Estindher Airport,AR,-33.0931015015,-64.42919921880001,1531.0,
+11852,38833,small_airport,Ezpeleta Airport,AR,-34.7464,-58.2033,9.0,
+11853,38834,heliport,Finca Las Costas Heliport,AR,-24.7703,-65.4956,4300.0,
+11854,38835,small_airport,Firmat Aeroclub Airport,AR,-33.4289,-61.5108,344.0,
+11855,38836,small_airport,Aeródromo sede del Aeroclub Formosa,AR,-26.3014,-58.2983,229.0,
+11856,38837,small_airport,Fortín De Gainza Airport,AR,-34.5494,-63.1225,426.0,
+11857,38838,heliport,Fuerza Aérea(Edificio Cóndor) Heliport,AR,-34.5858,-58.3681,19.0,
+11858,38839,small_airport,Fumigaciones Stadler Airport,AR,-32.5786,-60.9119,121.0,
+11859,38840,small_airport,Galvez Airport,AR,-32.0322,-61.1758,173.0,
+11860,38841,small_airport,General Alvear Aeroclub Airport,AR,-34.9730987549,-67.7236022949,1528.0,
+11861,38842,small_airport,General Belgrano Airport,AR,-35.7519,-58.4633,39.0,
+11862,38843,small_airport,General Deheza Airport,AR,-32.745300293,-63.7957992554,898.0,
+11863,38844,small_airport,General La Madrid Airport,AR,-37.226261,-61.279101,560.0,SA6B
+11864,38845,small_airport,General Las Heras Aeroclub,AR,-34.9206,-58.9164,114.0,
+11865,38846,small_airport,General Levalle Airport,AR,-34.0038871765,-63.9308319092,614.0,
+11866,38847,small_airport,General Madariaga Airport,AR,-37.0392,-57.1372,22.0,
+11867,38848,small_airport,General Pìnedo Airport,AR,-27.3394,-61.2744,298.0,
+11868,38849,small_airport,General Pinto Airport,AR,-34.7861,-61.9142,318.0,
+11869,38850,closed,General Rodriguez Airport,AR,-34.497234,-59.037457,98.0,
+11870,38851,small_airport,Los Toldos Airport,AR,-34.97726,-61.020942,236.0,
+11871,38852,small_airport,Gobernador Crespo Aeroclub Airport,AR,-30.3878,-60.3656,170.0,
+11872,38853,small_airport,Gobernador Santillán Airport,AR,-27.90139961242676,-64.24970245361328,689.0,
+11873,38854,small_airport,Gomez Airport,AR,-35.0956,-58.0853,62.0,
+11874,38855,small_airport,Gonzalez Chaves Airport,AR,-38.02949,-60.135654,636.0,SA6R
+11875,38856,small_airport,Goya Aeroclub,AR,-29.1678,-59.2464,124.0,
+11876,38857,small_airport,Guadalupe Airport,AR,-31.584,-60.668,59.0,
+11877,38858,small_airport,Gualeguay Airport,AR,-33.1036109924,-59.3747215271,39.0,
+11878,38859,small_airport,Agro Aereo Gualeguay Airport,AR,-33.0386,-59.4383,52.0,
+11879,38860,heliport,Helicenter Heliport,AR,-34.497565,-58.606905,113.0,
+11880,38861,heliport,Heliplataforma Am I Heliport,AR,-52.5192,-68.3858,98.0,
+11881,38862,heliport,Heliplataforma Carina/Total Fina ELF,AR,-52.7572,-67.2194,30.0,
+11882,38863,heliport,Heliplataforma/Am-2 Heliport,AR,-52.5489,-68.3125,134.0,
+11883,38864,heliport,Heliplataforma/Am3 Heliport,AR,-52.5228,-68.2808,134.0,
+11884,38865,heliport,Heliplataforma/Am5 Heliport,AR,-52.5706,-68.2533,98.0,
+11885,38866,heliport,Heliplataforma/Rio Cullen-Hidra Norte Heliport,AR,-52.8206,-68.2192,65.0,
+11886,38867,heliport,Heliwest Heliport,AR,-34.6336,-58.7511,71.0,
+11887,38868,small_airport,Henderson Airport,AR,-36.3147010803,-61.7477989197,492.0,
+11888,38869,heliport,Hospital De Milagro Heliport,AR,-24.7731,-65.4156,4068.0,
+11889,38870,heliport,Hospital Materno Infantil San Roque Heliport,AR,-31.73,-60.5217,265.0,
+11890,38871,heliport,Hospital Municipal Heliport,AR,-34.4489,-59.4494,154.0,
+11891,38872,heliport,Professor Juan P Garrahan National Pediatric Hospital Heliport,AR,-34.630983,-58.393916,127.0,
+11892,38873,small_airport,Huanguelen Airport,AR,-37.0330543518,-61.934165954600005,518.0,
+11893,38874,small_airport,Huinca Renanco Airport,AR,-34.8203010559,-64.3731002808,590.0,
+11894,38875,small_airport,Ingeniero Luiggi Airport,AR,-35.3549995422,-64.4758300781,633.0,
+11895,42803,small_airport,Agroservicio Doña Teresa Airport,AR,-28.8494,-62.2625,246.0,
+11896,38877,small_airport,Establecimiento La Susana,AR,-34.909168,-59.348888,121.0,
+11897,38878,small_airport,Intendente Alvear Airport,AR,-35.2592,-63.5328,416.0,
+11898,38879,small_airport,Intendente Alvear,AR,-35.2494,-63.5342,416.0,
+11899,45160,small_airport,Fumigaciones Herbinsec Airport,AR,-35.138611,-62.705278,366.0,
+11900,38881,heliport,Isla Santa Mónica Heliport,AR,-34.4147,-58.5072,14.0,
+11901,38882,small_airport,Don Hector Biondi Airport,AR,-33.2464,-62.4167,387.0,
+11902,38883,small_airport,Italaviation Airport,AR,-29.1608,-59.1814,209.0,
+11903,38884,small_airport,Jacinto Arauz Airport,AR,-38.066101074200006,-63.4282989502,524.0,
+11904,38885,small_airport,Jardin De América Airport,AR,-27.032499,-55.198055,672.0,
+11905,38886,small_airport,Jesús Maria Airport,AR,-30.9881000519,-64.0768966675,1738.0,
+11906,38887,small_airport,Agropecuaria Rio Juramento Airport,AR,-25.1867008209,-64.0828018188,1184.0,
+11907,38888,small_airport,Tres Lomas Airport,AR,-36.4439,-62.8792,380.0,
+11908,38889,small_airport,Juan Carlos Bagur Airport,AR,-32.4186,-59.8158,190.0,
+11909,38890,heliport,Juan Y Luci Heliport,AR,-32.6922,-64.7206,2404.0,
+11910,38891,small_airport,Juarez Celman Airport,AR,-31.2113895416,-64.1613922119,1680.0,
+11911,38892,small_airport,La Angelita Airport,AR,-30.8522,-58.7067,229.0,
+11912,38893,small_airport,Trenque Lauquen Airport,AR,-36.0158,-62.6939,324.0,SA28
+11913,38894,small_airport,La Caida Airport,AR,-34.859281,-58.342426,91.0,
+11914,38895,heliport,La Caldera Heliport,AR,-36.6669,-56.6789,32.0,
+11915,38896,heliport,La Carolina Heliport,AR,-31.3525,-64.2828,1485.0,
+11916,38897,small_airport,La Consulta Airport,AR,-33.7308349609375,-69.17388916015625,3520.0,
+11917,38898,closed,La Fantasia,AR,-34.7286,-59.109402,111.0,
+11918,38899,small_airport,La Laja Airport,AR,-31.3513889313,-68.47305297850001,2132.0,
+11919,38900,small_airport,Quebracho Herrado Airport,AR,-34.1553,-59.8739,170.0,
+11920,38901,heliport,La Madrugada Heliport,AR,-34.2382,-59.1915,85.0,
+11921,38902,small_airport,La Mezquita Airport,AR,-31.400800705,-64.3003005981,1672.0,
+11922,38903,heliport,La Milagrosa Heliport,AR,-32.4828,-58.2506,49.0,
+11923,38904,small_airport,La Nueva Airport,AR,-34.9464,-61.3042,246.0,
+11924,38905,small_airport,La Paz Aeroclub Airport,AR,-30.7442,-59.5683,200.0,
+11925,38906,small_airport,La Pelada Airport,AR,-30.9556,-60.8858,144.0,
+11926,38907,small_airport,La Siesta Airport,AR,-33.6939,-62.0625,367.0,
+11927,38908,heliport,La Superba Heliport,AR,-34.5008,-59.015,32.0,
+11928,38909,small_airport,Laborde Airport,AR,-33.1567,-62.8906,400.0,
+11929,38910,small_airport,Lago Buenos Aires Airport,AR,-46.5764007568,-70.948600769,1312.0,
+11930,38911,heliport,Lago Escondido Heliport,AR,-41.7033,-71.6075,2722.0,
+11931,38912,small_airport,Lago La Esperanza Airport,AR,-42.217499,-71.805003,1836.0,
+11932,38913,small_airport,Lago Nahuel Huapi Airport,AR,-41.096709,-71.178021,2558.0,
+11933,38914,small_airport,Laguna Aeroclub Airport,AR,-34.40888977050781,-59.45833206176758,148.0,
+11934,38915,small_airport,Laguna De Gomez Airport,AR,-34.6539,-61.01,262.0,
+11935,38916,small_airport,Laprida Airport,AR,-37.520913,-60.778141,705.0,SAEK
+11936,38917,heliport,Las Araucarias Heliport,AR,-34.3067,-59.1703,82.0,
+11937,38918,heliport,Las Chacritas Heliport,AR,-34.405,-58.8631,64.0,
+11938,38919,small_airport,Las Cortaderas Airport,AR,-38.3547,-58.1089,52.0,
+11939,38920,small_airport,Las Marias Airport,AR,-28.1,-56.05,410.0,
+11940,38921,small_airport,Las Ovejas Airport,AR,-36.999699,-70.741897,3936.0,
+11941,38922,small_airport,Las Rosas Airport,AR,-32.4922,-61.5806,334.0,
+11942,38923,small_airport,Las Varillas Airport,AR,-31.8914,-62.7047,442.0,
+11943,38924,small_airport,Lanzillota Airport,AR,-32.7214012146,-68.6342010498,1869.0,
+11944,38925,heliport,Legat S.A. Heliport,AR,-34.3168,-58.8166,16.0,
+11945,38926,small_airport,Leones Airport,AR,-32.6368,-62.3148,373.0,
+11946,38927,small_airport,Luján Airport,AR,-34.5514,-59.0783,82.0,SA8Y
+11947,38928,small_airport,Lincoln Airport,AR,-34.8911,-61.5306,285.0,
+11948,38929,small_airport,El Mirador,AR,-34.538887,-59.585278,167.0,
+11949,38930,small_airport,Loberia Airport,AR,-38.1906,-58.7864,265.0,
+11950,38931,small_airport,Nika Airport,AR,-38.143874,-58.7479,262.0,
+11951,38932,small_airport,Lobos Airport,AR,-35.210784,-59.137149,95.0,SA8S
+11952,38933,small_airport,Los Cardos Airport,AR,-32.2719,-61.6622,341.0,
+11953,38934,heliport,Los Fresnos Heliport,AR,-34.2806,-59.12,111.0,
+11954,38935,small_airport,Los Perales Airport,AR,-46.1907997131,-69.28029632570001,1397.0,
+11955,38936,small_airport,Los Tucanes Airport,AR,-27.0358333588,-65.1566696167,1194.0,
+11956,38937,small_airport,Macachin Airport,AR,-37.1110992432,-63.5499992371,459.0,
+11957,38938,heliport,Madero Heliport,AR,-34.6217,-58.3447,16.0,
+11958,38939,small_airport,Maipu Airport,AR,-36.8903,-57.8503,52.0,
+11959,38940,heliport,Manuel Afonso Heliport,AR,-34.815,-58.1953,36.0,
+11960,38941,small_airport,Marcos Paz Airfield,AR,-34.7975,-58.8969,91.0,SA9K
+11961,38942,small_airport,Martín Fierro Airport,AR,-33.9402999878,-64.3696975708,754.0,
+11962,38943,heliport,Match Point Heliport,AR,-34.5161,-59.1339,82.0,
+11963,38944,small_airport,Meliquina Airport,AR,-40.33530044555664,-71.33920288085938,3061.0,
+11964,38945,heliport,Memorial Heliport,AR,-34.4433,-58.8381,62.0,
+11965,38946,small_airport,Mercedes Airport,AR,-34.638136,-59.455395,137.0,SA9M
+11966,42804,small_airport,Azcarate Irastorza Airport,AR,-35.1994,-63.6008,416.0,
+11967,38948,small_airport,Metán Airport,AR,-25.5144004822,-64.9655990601,2765.0,SASM
+11968,38949,small_airport,Mina Clavero Airport,AR,-31.7331008911,-64.98560333249999,3181.0,
+11969,38950,heliport,Miraflores Country Club Heliport,AR,-34.4461,-58.7342,68.0,
+11970,38951,small_airport,Monte Maiz Airport,AR,-33.2103,-62.6297,370.0,
+11971,38952,closed,Montecarlo Airport,AR,-26.5439,-54.7239,787.0,
+11972,38953,small_airport,Moromar Airport,AR,-38.425775,-58.371331,49.0,
+11973,38954,heliport,Morrison Heliport,AR,-32.0,-62.0,465.0,
+11974,38955,small_airport,Morteros Airport,AR,-30.6778,-62.0267,308.0,
+11975,38956,small_airport,Navarro Airport,AR,-35.0236,-59.2858,98.0,SA9Z
+11976,38957,small_airport,Nogoya Airport,AR,-32.4025,-59.7461,137.0,
+11977,38958,heliport,Norberto Cordeiro Heliport,AR,-31.4142,-64.4969,2036.0,
+11978,38959,heliport,Sub-Inspector Official Gustavo Soarez de Souza Heliport,AR,-34.723586,-58.5149,141.0,
+11979,38960,small_airport,Oliva Airport,AR,-32.060798645,-63.5469017029,879.0,
+11980,38961,heliport,Oreste Berta Heliport,AR,-31.6269,-64.3922,1869.0,
+11981,38962,heliport,Argentine Naval Prefecture Principal Official Ballestra Heliport,AR,-34.5772,-58.3838,19.0,
+11982,339851,small_airport,Haydee Airport,AR,-35.669894,-61.405525,269.0,
+11983,38964,small_airport,Parana Aeroclub Airport,AR,-31.7578,-60.3733,196.0,
+11984,38965,small_airport,Parana Club De Planeadores Airport,AR,-31.7314,-60.22,151.0,
+11985,38966,small_airport,Parque Hermoso Airport,AR,-38.0287,-57.6393,196.0,
+11986,38967,small_airport,Pedro Luro Airport,AR,-39.4561,-62.6747,88.0,
+11987,38968,small_airport,Pellegrini Airport,AR,-36.2828,-63.1342,370.0,
+11988,38969,small_airport,LAD 2198 Juan Jose Angelini,AR,-34.426945,-59.480278,164.0,
+11989,38970,small_airport,Pilcaniyeu Airport,AR,-41.12666702270508,-70.7138900756836,3192.0,
+11990,38971,small_airport,Pinamar Airport,AR,-37.0911,-56.9783,9.0,SAB4
+11991,38972,heliport,Planta Cruz Del Sur Heliport,AR,-53.3228,-68.2658,173.0,
+11992,38973,small_airport,Poblet Airport,AR,-35.0881,-57.9492,65.0,
+11993,38974,heliport,Policía Provincia De Córdoba Heliport,AR,-31.3994,-64.1833,1293.0,
+11994,38975,heliport,Policlinico San Martin Heliport,AR,-34.9167,-57.9167,68.0,
+11995,38976,heliport,Polisur S.A. Heliport,AR,-38.7742,-62.2939,16.0,
+11996,38977,closed,Posadas Aeroclub Airport,AR,-27.4175,-55.939724,443.0,
+11997,38978,heliport,Presidencia De La Nación Heliport,AR,-34.6064,-58.3683,26.0,
+11998,38979,small_airport,Puán Airport,AR,-37.5393981934,-62.7341995239,787.0,
+11999,38980,small_airport,Pueblo Esther Airport,AR,-33.0817,-60.5647,82.0,
+12000,38981,small_airport,Terminal 6 Airport,AR,-32.6417,-60.7539,85.0,
+12001,38982,small_airport,Pulmari Airport,AR,-39.10055541992188,-70.99888610839844,3245.0,
+12002,38983,small_airport,Punta Alta Airport,AR,-38.8342,-62.0869,9.0,
+12003,38984,heliport,Raies Heliport,AR,-31.3461,-64.2081,1459.0,
+12004,38985,heliport,Rancho De Montaña Heliport,AR,-40.1525,-71.2856,3297.0,
+12005,38986,small_airport,La Igualdad Airport,AR,-35.5133,-58.3531,59.0,
+12006,38987,small_airport,Rawson Airport,AR,-43.2944,-65.0644,36.0,
+12007,38988,small_airport,Realicó Airport,AR,-35.0592002869,-64.2110977173,541.0,
+12008,38989,small_airport,Nueva Valencia Airport,AR,-27.5864,-58.8203,186.0,
+12009,38990,small_airport,Don Jose Airport,AR,-32.8275,-60.7817,82.0,
+12010,38991,small_airport,Rio Chico Airport,AR,-51.668997,-69.266365,68.0,
+12011,38992,heliport,Estancia Rio Ewan Heliport,AR,-54.233548,-67.213246,112.0,
+12012,38993,small_airport,Rivadavia Airport,AR,-33.227222,-68.474167,2162.0,
+12013,38994,small_airport,Rojas Airport,AR,-34.215,-60.6725,19.0,
+12014,38995,small_airport,Rosario De La Frontera Airport,AR,-25.8280563354,-64.9680557251,2746.0,
+12015,38996,small_airport,Rosario Del Tala Airport,AR,-32.3289,-59.1906,177.0,
+12016,38997,small_airport,Rufino Airport,AR,-34.2831,-62.6719,387.0,
+12017,38998,small_airport,Salliqueló Airport,AR,-36.756401062,-62.9444007874,475.0,
+12018,38999,small_airport,Salto Airport,AR,-34.306864,-60.286489,193.0,SA75
+12019,39000,small_airport,San Benito Airport,AR,-31.8086,-60.4517,193.0,
+12020,39001,small_airport,San Cayetano Heliport,AR,-38.33388900756836,-59.630279541015625,328.0,
+12021,39002,small_airport,San Cristobal Airport,AR,-30.2642,-61.2203,242.0,
+12022,39003,small_airport,San Francisco Airport,AR,-31.4142,-62.1336,374.0,
+12023,39004,heliport,San Isidro Labrador Heliport,AR,-35.0814,-63.0822,377.0,
+12024,39005,heliport,San Joaquín Heliport,AR,-34.338502,-59.721508,137.0,
+12025,39006,small_airport,San Jorge Airport,AR,-31.8836,-61.8442,347.0,
+12026,39007,small_airport,San Justo Airport,AR,-30.7642,-60.5653,180.0,
+12027,39008,small_airport,Aeroclub San Martín,AR,-33.061883,-68.508644,2154.0,SAMI
+12028,39009,small_airport,San Miguel del Monte Airport,AR,-35.4594,-58.7636,78.0,
+12029,42805,small_airport,Bahía Dorada Airport,AR,-41.8428,-65.0822,118.0,
+12030,39011,small_airport,San Vicente Airport,AR,-26.9533004761,-54.4878005981,1804.0,
+12031,39012,heliport,Sanatorio Guemes Heliport,AR,-34.597,-58.4219,268.0,
+12032,39013,small_airport,Santo Tome Airport,AR,-28.5272216796875,-56.10944366455078,223.0,
+12033,39014,heliport,Sarthou S.A. Heliport,AR,-34.3642,-58.5497,15.0,
+12034,39015,heliport,Saturnino Unzue Heliport,AR,-35.4244,-60.1561,164.0,
+12035,39016,small_airport,Scaro Airport,AR,-24.4480552673,-65.1758346558,3228.0,
+12036,46643,small_airport,Villa de María de Río Seco Airport,AR,-29.9,-63.683,,SACV
+12037,39018,heliport,Sol De Agosto Heliport,AR,-34.5331,-58.9714,32.0,
+12038,39019,small_airport,Stroeder Airport,AR,-40.207635,-62.61858,91.0,
+12039,39020,small_airport,Suboficial Auxiliar Miguel A. Cardone Airport,AR,-33.9617,-61.6325,337.0,
+12040,39021,small_airport,Sunchales Aeroclub Airport,AR,-30.9575,-61.5283,299.0,SAFS
+12041,39022,heliport,Swiss Medical Heliport,AR,-34.5808,-58.4294,193.0,
+12042,39023,heliport,Talitas Heliport,AR,-32.5481,-58.2406,26.0,
+12043,39024,small_airport,Estancia Tecka Airport,AR,-43.6122207642,-71.0219421387,2361.0,
+12044,39025,heliport,Tecnocopter S.A. Heliport,AR,-34.4922,-58.6061,65.0,
+12045,39026,heliport,Terminal Y.P.F. Heliport,AR,-34.731923,-58.557735,32.0,
+12046,39027,small_airport,Tilisarao Airport,AR,-32.75,-65.28220367429999,2463.0,
+12047,39028,heliport,Timen S.A. Heliport,AR,-34.4964,-58.6078,19.0,
+12048,39029,small_airport,Tolosa Airport,AR,-34.8747,-57.9608,18.0,
+12049,39030,small_airport,Tornquist Airport,AR,-38.0956,-62.250301,934.0,
+12050,39031,small_airport,Tostado Airport,AR,-29.2358,-61.7886,226.0,
+12051,39032,heliport,Transener S.A. Heliport,AR,-34.175,-58.9983,32.0,
+12052,39033,heliport,Transener S.A. Heliport,AR,-34.9136,-58.7222,65.0,
+12053,39034,heliport,Transener S.A. Heliport,AR,-32.3694,-66.0631,1968.0,
+12054,39035,heliport,Recreo / Transener S.A. Heliport,AR,-29.2628,-65.0582,810.0,
+12055,39036,heliport,Transener S.A. Heliport,AR,-38.1472,-65.8228,751.0,
+12056,39037,heliport,Transener S.A. Heliport,AR,-33.0989,-68.5819,2220.0,
+12057,39038,heliport,Transener S.A. Heliport,AR,-40.1622,-70.3917,2302.0,
+12058,39039,heliport,Transener S.A. Heliport,AR,-39.5675,-65.6886,426.0,
+12059,39040,heliport,Transener S.A. Heliport,AR,-29.4606,-59.7636,190.0,
+12060,39041,heliport,Transener S.A. Heliport,AR,-26.9936,-65.1636,1239.0,
+12061,39042,heliport,Almafuerte / Transener S.A. Heliport,AR,-32.203,-64.315,1640.0,
+12062,39043,heliport,Montecristo / Transener S.A. Heliport,AR,-31.3392,-63.9138,1082.0,
+12063,39044,small_airport,Chevron Texaco Airport,AR,-37.365002,-69.300278,2896.0,
+12064,39045,small_airport,Horco Molle Aeroclub Airport,AR,-26.7961006165,-65.3091964722,1902.0,
+12065,39046,heliport,Unidad Penitenciaria N° 30 Heliport,AR,-36.0444,-60.0167,180.0,
+12066,39047,small_airport,Urdinarrain Airport,AR,-32.6964,-58.8992,216.0,
+12067,39048,small_airport,Veinticinco De Mayo Airport,AR,-35.4464,-60.0886,164.0,
+12068,39049,small_airport,Vera Airport,AR,-29.4681,-60.2261,190.0,
+12069,39050,small_airport,Veronica Airport,AR,-35.4,-57.3667,55.0,
+12070,39051,small_airport,Victoria Airport,AR,-32.5844,-60.1847,75.0,
+12071,39052,small_airport,Victorica Airport,AR,-36.2374992371,-65.450553894,1020.0,SAHV
+12072,39053,small_airport,Villa Del Rosario Airport,AR,-31.579313,-63.539184,830.0,
+12073,39054,small_airport,Villa General Belgrano Airport,AR,-31.9652996063,-64.5643997192,2755.0,
+12074,39055,small_airport,Villa Ocampo Airport,AR,-28.4969,-59.3256,160.0,
+12075,39056,small_airport,Villa Regina Airport,AR,-39.073601,-67.080002,934.0,
+12076,39057,small_airport,Villa Rumipal Airport,AR,-32.1850013733,-64.4882965088,2184.0,
+12077,39058,small_airport,Zarate Airport,AR,-34.119912,-59.083198,85.0,SA2L
+12078,42806,small_airport,Belingueres Aviación Airport,AR,-34.2778,-60.5044,209.0,
+12079,42807,small_airport,Bocca Airport,AR,-31.8711,-61.9511,344.0,
+12080,42808,small_airport,Buena Esperanza Airport,AR,-30.5306,-58.3972,246.0,
+12081,42809,small_airport,Buenos Aires Airport,AR,-33.859722,-59.468887,85.0,
+12082,42810,small_airport,Burdisso Airport,AR,-32.2406,-61.7583,364.0,
+12083,42811,closed,Carlos Saqui Airport,AR,-31.63500022888184,-63.86109924316406,1066.0,
+12084,42812,small_airport,Carmen de Patagones Airport,AR,-40.7781,-62.9803,131.0,SA3R
+12085,42813,small_airport,Mar del Plata Gliding Club,AR,-38.0153,-57.6536,147.0,
+12086,42814,small_airport,Colonia Tirolesa Airport,AR,-31.244722,-64.035278,1335.0,
+12087,42815,small_airport,Comandante Eduardo A. Olivero Airport,AR,-37.347686,-58.9853,633.0,SA1A
+12088,42816,small_airport,Concepción Airport,AR,-27.345434,-65.617973,1200.0,
+12089,42817,small_airport,Brandsen Airport,AR,-35.1828,-58.2839,52.0,
+12090,42818,small_airport,Coronel Moldes Airport,AR,-33.616669,-64.612503,1170.0,
+12091,42819,small_airport,Di Giuseppe Airport,AR,-32.8908,-61.1239,291.0,
+12092,42820,small_airport,Dinaluca S.A. Airport,AR,-27.3828,-57.6442,219.0,
+12093,42821,small_airport,General Rodriguez Ildefonso Durana Airport,AR,-34.6803,-59.0358,91.0,
+12094,42822,small_airport,El Girasol Airport,AR,-33.6661,-59.8339,91.0,
+12095,42823,small_airport,El Gringo Airport,AR,-27.3086,-61.2114,301.0,
+12096,42824,small_airport,El Jagüel Airport,AR,-31.7994,-59.0339,200.0,
+12097,42825,small_airport,El Malagueño Airport,AR,-31.6994,-59.4006,180.0,
+12098,42826,small_airport,El Pilincho Airport,AR,-30.3872,-57.9683,228.0,
+12099,42827,small_airport,El Toto Airport,AR,-31.650278,-64.368889,540.0,
+12100,42828,small_airport,Establecimiento La Adelita Airport,AR,-31.3925,-61.1431,164.0,
+12101,42829,small_airport,Establecimiento La Florencia Airport,AR,-33.0769,-61.3178,246.0,
+12102,42830,small_airport,Estancia Caridad Airport,AR,-43.72139,-71.24556,2427.0,
+12103,42831,closed,Estancia El Chañar Airport,AR,-31.2887,-62.4189,331.0,
+12104,42832,small_airport,Aeródromo Estancia La Leonor,AR,-26.1494,-59.6672,285.0,
+12105,42833,small_airport,Estancia La Providencia Airport,AR,-32.9411,-58.565,65.0,
+12106,42834,small_airport,Aeródromo de la Estancia La Salvación,AR,-25.2767,-58.9375,321.0,
+12107,42835,small_airport,Estancia Lucila Airport,AR,-38.3086,-58.105,72.0,
+12108,42836,small_airport,Estancia San Vicente Airport,AR,-32.9989,-61.7781,229.0,
+12109,42837,small_airport,Estancia Santa Romana Airport,AR,-33.753334,-65.246391,1548.0,
+12110,42838,small_airport,Estancia Villa Corina Airport,AR,-28.035,-56.0678,403.0,
+12111,42839,small_airport,Estancia Villa María,AR,-34.6433,-59.1272,104.0,
+12112,42840,small_airport,F.A.T. Airport,AR,-34.1767,-61.5069,285.0,
+12113,42841,small_airport,Finca La Frontera Airport,AR,-22.12351,-63.29055,160.0,
+12114,42842,small_airport,Firmat Airport,AR,-33.4661,-61.4842,344.0,
+12115,42843,small_airport,Fumigaciones Campagnucci Airport,AR,-33.3239,-60.6658,157.0,
+12116,42844,small_airport,Fumigaciones Fredy Airport,AR,-34.2361,-60.5819,176.0,
+12117,42845,small_airport,Fumigaciones González Airport,AR,-32.3589,-60.9797,98.0,
+12118,42846,small_airport,General Belgrano Airport,AR,-24.745834,-65.418892,4136.0,
+12119,42847,small_airport,General San Martin (La Pampa) Airport,AR,-37.94972,-63.6175,528.0,
+12120,42848,small_airport,Ginevro Airport,AR,-31.864445,-62.844166,475.0,
+12121,42849,small_airport,Gualeguay Aeroclub Airport,AR,-33.0994,-59.4172,49.0,
+12122,42850,closed,Guatraché Airport,AR,-37.682800293,-63.5508003235,574.0,
+12123,42851,small_airport,Haras La Pomme Airport,AR,-34.2078,-59.3856,91.0,
+12124,42852,closed,Haras Trelliris Airport,AR,-35.33138,-60.57916,196.0,
+12125,42853,small_airport,Hosteria San Huberto Airport,AR,-39.7038879395,-71.16999816890001,2810.0,
+12126,42854,small_airport,Iriberri Airport,AR,-38.478789,-58.804836,108.0,
+12127,42855,small_airport,Islas Del Ibicuy Airport,AR,-33.75,-58.7,19.0,
+12128,42856,small_airport,La Carlota Airport,AR,-33.450000762900004,-63.3499984741,505.0,
+12129,42857,small_airport,La Chacra Airport,AR,-34.81255,-62.522467,357.0,SA50
+12130,42858,small_airport,La Esmeralda Airport,AR,-29.9939,-57.8378,265.0,
+12131,42859,small_airport,La Lucía Airport,AR,-33.0119,-61.0608,239.0,
+12132,42860,small_airport,La Madrugada Airport,AR,-38.0036,-59.3489,449.0,
+12133,42861,small_airport,La Mariela Airport,AR,-35.7828,-61.9342,282.0,
+12134,42862,small_airport,La Zulema Airport,AR,-32.4897,-62.6714,423.0,
+12135,42863,small_airport,Las Lilas Airport,AR,-35.1328,-62.2175,350.0,
+12136,42864,small_airport,Malabrigo Airport,AR,-29.35,-59.9667,177.0,
+12137,42865,closed,Match Point Airport,AR,-34.5161,-59.1339,82.0,
+12138,42866,small_airport,Montes De Oca Airport,AR,-32.5811,-61.8408,62.0,
+12139,42867,small_airport,Ñancu Airport,AR,-35.6161,-63.7508,446.0,
+12140,42868,small_airport,Pedro Ferrari Airport,AR,-32.9278,-62.4336,354.0,
+12141,42869,small_airport,Petrazzini Airport,AR,-38.3478,-60.2761,350.0,
+12142,42870,small_airport,Aeródromo Petruk,AR,-27.0878,-58.6694,177.0,
+12143,42871,small_airport,Pettilep Airport,AR,-33.005,-61.0194,200.0,
+12144,42872,small_airport,Pettilep II Airport,AR,-32.8039,-60.7989,180.0,
+12145,42873,small_airport,Puerta De Avalos Airport,AR,-24.314679,-65.247198,3904.0,
+12146,42874,small_airport,Pulverizaciones M.H. Airport,AR,-27.4831,-61.6486,318.0,
+12147,42875,small_airport,Saldungaray Airport,AR,-38.205278,-61.761111,747.0,
+12148,42876,small_airport,San Cayetano Airport,AR,-38.3339,-59.6303,328.0,
+12149,42877,small_airport,San Gregorio Airport,AR,-34.3169,-62.0192,347.0,
+12150,42878,small_airport,San Ignacio Airport,AR,-39.8474998474,-70.8638916016,2267.0,
+12151,42879,small_airport,San José De La Dormida Airport,AR,-30.2775001526,-63.8574981689,1387.0,
+12152,42880,small_airport,Santo Tomás de La Sierra Airport,AR,-38.241804,-61.827675,895.0,
+12153,42881,small_airport,Savesa Airport,AR,-33.7792,-61.9775,360.0,
+12154,42882,small_airport,Sigfrido Rohr Aviagro S.R.L. Airport,AR,-34.8306,-62.4678,360.0,SA51
+12155,42883,small_airport,Skare Airport,AR,-34.3571833134,-60.1559829712,196.0,
+12156,42884,small_airport,Termal Airport,AR,-26.753611,-60.492222,308.0,SARS
+12157,42885,small_airport,Timboy Airport,AR,-30.2236,-57.8444,213.0,
+12158,42886,small_airport,Trevelin Airport,AR,-43.08797,-71.47868,1245.0,
+12159,45161,small_airport,Casilda Fumigaciones Airport,AR,-33.176429,-61.20299,259.0,
+12160,42888,small_airport,Yapeyú Airport,AR,-29.44393,-56.823915,214.0,
+12161,42889,heliport,Berrini Heliport,AR,-31.4397,-64.3433,1811.0,
+12162,42890,heliport,Campanopolis Heliport,AR,-34.791746,-58.601936,19.0,
+12163,42891,heliport,Casa De Lata Heliport,AR,-39.8153,-71.1681,3221.0,
+12164,42892,heliport,San Diego Country Club Heliport,AR,-34.600503,-58.840933,71.0,
+12165,42893,heliport,Dayry Partners Americas Manufacturing Argentina Sa Heliport,AR,-32.44,-63.2289,639.0,
+12166,42894,heliport,Dr. Mariano Moreno Heliport,AR,-34.5631,-58.7903,104.0,
+12167,42895,heliport,Estancia La Pascuala Heliport,AR,-37.3936,-58.9661,721.0,
+12168,42896,heliport,Heliplataforma Barcaza Yagana Heliport,AR,-52.5225,-68.2806,49.0,
+12169,42897,heliport,Heliplataforma Buque Skandi Patagonia Heliport,AR,-52.0,-67.0,,
+12170,42898,heliport,Heliplataforma Equipo Modular M-10 Heliport,AR,-52.5489,-68.3119,108.0,
+12171,42899,heliport,Metalúrgico / Miguel Colombise Heliport,AR,-33.358949,-60.249377,88.0,
+12172,42900,heliport,Pachón Minera Heliport,AR,-31.7597,-70.4128,11810.0,
+12173,42901,heliport,Pernigotti Heliport,AR,-27.7708,-64.2278,475.0,
+12174,42902,heliport,Policia De La Provincia De Mendoza Heliport,AR,-32.8783,-68.8681,2646.0,
+12175,42903,heliport,Roca Heliport,AR,-32.06,-64.7794,3444.0,
+12176,42904,heliport,S.A.N.A. Heliport,AR,-27.5494,-55.3336,905.0,
+12177,42905,heliport,Austral S.A. Heliport,AR,-52.7386,-68.5725,290.0,
+12178,42906,closed,General Alvear Airport,AR,-35.9783,-59.9061,164.0,
+12179,42907,small_airport,San Patricio Airport,AR,-34.0403,-59.6944,147.0,
+12180,42908,small_airport,La Cura Malal Airport,AR,-34.074938,-60.140829,121.0,
+12181,45153,heliport,Cañuelas Gas SA Heliport,AR,-35.0583,-58.7883,95.0,
+12182,45154,heliport,Colonia La Capilla Heliport,AR,-34.9167,-58.2508,82.0,
+12183,45155,heliport,Miguel Colombise Heliport,AR,-33.3617,-60.2511,88.0,
+12184,45156,heliport,Piero Vara Heliport,AR,-34.433151,-58.972485,39.0,
+12185,45157,heliport,Rio Cullen II Heliplatform,AR,-52.8364,-68.1789,127.0,
+12186,45162,small_airport,La Argentina Airport,AR,-35.996667,-62.705278,311.0,
+12187,46644,small_airport,La Paz Airport,AR,-33.467,-67.55,,SAMP
+12188,46645,small_airport,Colonia Sarmiento Airport,AR,-45.582371,-68.999841,877.0,
+12189,298878,small_airport,Agroaire Airport,AR,-27.476346,-61.624434,330.0,
+12190,313007,small_airport,Aeroclub de El Chaltén Alf. G.N.A. Walter Omar D Anna,AR,-49.53531,-72.51997,1279.0,
+12191,313008,small_airport,Hipólito Yrigoyen Lago Posadas Airport,AR,-47.565833,-71.74,,
+12192,313014,small_airport,Estancia La Adela Airport,AR,-42.526064,-64.278661,,
+12193,313015,small_airport,Punta Delgada Airport,AR,-42.766485,-63.645458,,
+12194,313021,small_airport,Camarones Field,AR,-44.779007,-65.719672,,
+12195,313022,small_airport,Caleta Valdés Field,AR,-42.454874,-63.61908,,
+12196,313090,small_airport,Telsen,AR,-42.383333,-66.95,,
+12197,313091,small_airport,Gan Gan Field,AR,-42.521363,-68.287861,,
+12198,313092,small_airport,Gastre Field,AR,-42.276165,-69.221892,,
+12199,313093,small_airport,Cushamen Field,AR,-42.17195981,-70.666176,,
+12200,313094,small_airport,Las Plumas Filed,AR,-43.729305,-67.284822,,
+12201,314776,small_airport,Estancia Cullen South Airport,AR,-52.9435,-68.4021,120.0,
+12202,314777,small_airport,Estancia Sara Airport,AR,-53.432,-68.167,52.0,
+12203,314778,small_airport,Rio Chico Highway Strip,AR,-53.642,-67.9486,26.0,
+12204,314780,small_airport,Los Robles Airport,AR,-54.069,-67.6536,102.0,
+12205,318230,small_airport,Agroalvear S.R.L. Airport,AR,-33.06833,-60.66694,104.0,
+12206,318231,small_airport,Arias Airport,AR,-33.664,-62.3751,415.0,
+12207,318238,small_airport,Estancia La Alborada,AR,-37.462706,-58.188557,209.0,
+12208,318241,small_airport,Finca Cuchuy Airport,AR,-23.04,-63.7211,928.0,
+12209,318243,small_airport,Calchaqui Airport,AR,-29.85167,-60.29194,184.0,
+12210,318244,small_airport,Stiefel Airport,AR,-31.99472,-61.60278,232.0,
+12211,318245,small_airport,Fumagro Airport,AR,-37.214729,-62.780581,364.0,
+12212,318246,small_airport,Establecimiento La Maria Pilar Airport,AR,-36.488606,-63.432958,410.0,
+12213,318247,small_airport,Agroservicios Airport,AR,-33.2723,-60.5707,144.0,
+12214,318248,small_airport,Alfomso Mengo Airport,AR,-32.02444,-64.27944,1781.0,
+12215,318249,small_airport,Lomas del Espinillo Airport,AR,-32.08806,-64.16972,1441.0,
+12216,318250,small_airport,Ita Ibate Airport,AR,-27.44833,-57.422241,223.0,
+12217,318251,small_airport,Aeródromo de la Estancia San Rafael,AR,-25.04347,-58.5915,288.0,
+12218,318252,small_airport,Bernardo's Airport,AR,-32.2506,-61.6519,290.0,
+12219,318253,small_airport,Salvita Airport,AR,-23.2128,-64.0339,928.0,
+12220,318254,small_airport,El Desafio,AR,-23.2426,-63.323,800.0,
+12221,318255,small_airport,Finca La Hercilia Airport,AR,-22.6147,-63.662759,1227.0,
+12222,318256,small_airport,Kalbermatter Airport,AR,-27.26028,-61.47444,331.0,
+12223,318257,small_airport,Estancia El Potrero Airport,AR,-32.97472,-58.25389,88.0,
+12224,318259,small_airport,Plus Agroservicios Aereos S.R.L. Airport,AR,-33.8136,-61.3357,325.0,
+12225,318260,small_airport,Biondi Airport],AR,-33.2232,-62.4046,400.0,
+12226,318263,small_airport,Casajus,AR,-33.3882,-63.3055,475.0,
+12227,318264,small_airport,Don Emilio Airport,AR,-26.73247,-64.88455,1525.0,
+12228,318265,small_airport,AeroSoluciones Airport,AR,-24.74889,-64.235,1614.0,
+12229,318266,small_airport,Don Alberto Airport,AR,-35.8696,-57.8768,35.0,
+12230,318268,small_airport,Fumigaciones Ortega Airport,AR,-35.275617,-61.55652,295.0,
+12231,318269,small_airport,Campo San Jose Airport,AR,-30.77778,-62.01472,331.0,
+12232,318270,small_airport,Pulverizaciones Aerosur Airport,AR,-38.576401,-58.796429,55.0,
+12233,318271,small_airport,Finca Toloche Airport,AR,-25.4346,-63.8578,1040.0,
+12234,318273,small_airport,La Noria Agricultural Airport,AR,-33.85696,-60.70038,255.0,
+12235,318274,small_airport,Servicios Aeronauticos,AR,-37.523004,-62.452319,865.0,
+12236,318275,small_airport,Estancia La Carolina Airport,AR,-33.07558,-60.715,110.0,
+12237,318276,small_airport,SAS Aeroaplicaciones Airport,AR,-24.80667,-64.18111,1498.0,
+12238,318278,small_airport,Vale Airport,AR,-37.06556,-69.39556,3051.0,
+12239,318279,small_airport,Aeroagereo,AR,-35.13588,-61.99717,327.0,
+12240,318281,small_airport,La Amalia,AR,-35.10042,-62.01656,328.0,
+12241,318282,small_airport,BSG Airport,AR,-34.24968,-62.67416,393.0,
+12242,318283,small_airport,Abelenda Airport,AR,-35.738533,-59.76201,127.0,
+12243,318290,small_airport,Vergnano Airport,AR,-30.32012,-61.90165,314.0,
+12244,318297,small_airport,Aeroclub San Javier,AR,-30.5559,-59.9907,90.0,
+12245,318298,small_airport,Chialva S. H. Airport,AR,-32.736945,-62.531378,390.0,
+12246,318300,small_airport,Santa Clara de Saguier Airport,AR,-31.35549,-61.82983,356.0,
+12247,318301,small_airport,San Alberto Airport,AR,-36.592071,-64.220437,620.0,
+12248,318302,small_airport,Cóndor del Aire Airport,AR,-33.46587,-60.62854,199.0,
+12249,318303,small_airport,Fumigaciones Nando Airport,AR,-29.77963,-62.03181,295.0,
+12250,318305,small_airport,Establecimiento El 21 Airport,AR,-26.8952,-62.30962,545.0,
+12251,318306,small_airport,Tío Pujio Airport,AR,-32.29307,-63.40197,777.0,
+12252,318307,small_airport,Santagiulian Airport,AR,-38.40573,-60.29968,350.0,
+12253,318308,small_airport,Estancia Los Lobles Airport,AR,-36.552913,-63.766652,459.0,
+12254,318309,small_airport,Estancia La Criolla Airport,AR,-35.537034,-60.129512,160.0,
+12255,318310,small_airport,Servicios Agroaereos Airport,AR,-35.449205,-60.160708,165.0,
+12256,318311,small_airport,Don Angel Airport,AR,-33.93823,-64.40774,800.0,
+12257,318313,small_airport,Beneficios S.R.L. Airport,AR,-33.93759,-64.415095,800.0,
+12258,318314,small_airport,Comequechen Airport,AR,-33.93402,-64.415946,805.0,
+12259,318492,small_airport,Santa Isabel Airport,AR,-36.23682,-66.94624,,
+12260,318493,small_airport,Limay Mahuida Airport,AR,-37.1201,-66.704,,
+12261,318495,small_airport,Nueva Galia Airport,AR,-35.089382,-65.197724,,
+12262,318506,small_airport,RAIG S.A. Airport,AR,-32.4382,-63.2893,685.0,
+12263,318507,small_airport,Suarez Aviación Airport,AR,-32.4272,-63.3024,700.0,
+12264,318508,small_airport,Villa Valeria Airport,AR,-34.35653,-64.90136,955.0,
+12265,318509,heliport,D.P. El Vapor Heliport,AR,-34.83467,-58.38498,91.0,
+12266,318510,heliport,Centro Cívico Bicentenario Heliport,AR,-31.42037,-64.173235,1306.0,
+12267,318511,heliport,Superficie Heliport,AR,-34.90046,-57.929486,22.0,
+12268,318513,heliport,C.A.P.E. Provincial Police Heliport,AR,-29.4356,-66.8632,1760.0,
+12269,318514,heliport,La Reserva Heliport,AR,-34.27045,-58.90043,19.0,
+12270,318515,heliport,Cooperativa de Trabajos Portuarios Limitada Heliport,AR,-32.71915,-60.72636,29.0,
+12271,318516,heliport,Edificio Tribunales Helipad,AR,-27.7813,-64.265,738.0,
+12272,318517,heliport,Villa La Ñata Heliport,AR,-34.37527,-58.65576,10.0,
+12273,318945,small_airport,Coy Aike Airport,AR,-51.162246,-69.487675,,
+12274,318946,small_airport,Estancia Elena Airport,AR,-49.727768,-68.756606,,
+12275,321675,small_airport,Aeródromo de Fortin Cabo Lugones,AR,-24.300451,-59.830954,,
+12276,321676,small_airport,Posta Cambio a Zalazar Airport,AR,-24.214972,-60.201023,441.0,
+12277,321677,small_airport,Aeródromo Cnel. Alfonso,AR,-25.130442,-58.217977,,
+12278,321678,small_airport,Aeródromo San Hilario,AR,-25.86448,-58.672887,236.0,
+12279,321701,small_airport,Santa Elena Airport,AR,-30.976069,-59.776894,,
+12280,321708,small_airport,Augusto Leguizamon Airport,AR,-34.818011,-62.477107,357.0,
+12281,321709,small_airport,Dutto Airport,AR,-28.870432,-62.241535,285.0,
+12282,321710,small_airport,Malfatto Airport,AR,-35.1517,-60.5056,187.0,
+12283,321711,small_airport,Cañada Quiroz Airport,AR,-27.5497,-58.7175,180.0,
+12284,321732,small_airport,Malatini Airport,AR,-35.569123,-61.368224,268.0,
+12285,321733,small_airport,Ottaviani Airport,AR,-35.648137,-61.350425,268.0,
+12286,321734,small_airport,Copetonas Airport,AR,-38.743657,-60.553332,167.0,
+12287,321740,small_airport,Don Moises Airport,AR,-32.039622,-64.192827,1604.0,
+12288,321745,small_airport,Itati Airport,AR,-27.305297,-58.313924,196.0,
+12289,321746,small_airport,Las 2 A Airport,AR,-34.811475,-60.51701,196.0,
+12290,321748,small_airport,Daireaux Airport,AR,-36.580056,-61.784878,380.0,
+12291,321754,small_airport,Estancia Santa Elisa Airport,AR,-29.304436,-56.881343,206.0,
+12292,321755,small_airport,Hernando Airport,AR,-32.337145,-63.685178,925.0,
+12293,321763,small_airport,Antares Airport,AR,-34.528223,-63.960879,505.0,
+12294,321764,small_airport,Lanteri Airpiort,AR,-28.86085,-59.673331,183.0,
+12295,321765,small_airport,Agroalas S.R.L. Airport,AR,-26.870159,-64.74663,1135.0,
+12296,321766,small_airport,Horizonte Aplicaciones Areas Airport,AR,-32.521761,-61.550695,321.0,
+12297,321767,small_airport,Samave Airport,AR,-33.786401,-62.127806,357.0,
+12298,321768,small_airport,El Recuerdo S.R.L. Airport,AR,-33.10549,-63.192986,451.0,
+12299,321769,small_airport,Rovere Airport,AR,-26.783029,-60.487414,295.0,
+12300,321771,small_airport,Estancia La Elba,AR,-44.5728,-65.3706,45.0,
+12301,321772,small_airport,Fumigaciones Herbinsec Airport,AR,-35.13652,-61.99028,336.0,
+12302,321775,small_airport,Parajon Airport,AR,-34.576385,-61.005748,275.0,
+12303,323143,small_airport,Estancia Bahía Laura Airport,AR,-48.331097,-66.417847,,
+12304,323144,small_airport,Fitz Roy Airport,AR,-47.021639,-67.241585,,
+12305,323145,small_airport,Tres Cerros Airport,AR,-48.138678,-67.655065,,
+12306,323146,small_airport,Ministro Ramos Mexía Airport,AR,-40.523752,-67.214651,,
+12307,323147,small_airport,Arroyo de la Ventana Airport,AR,-41.669222,-66.097071,,
+12308,323148,small_airport,Dique Florentino Ameghino Airport,AR,-43.674928,-66.493948,,
+12309,323149,small_airport,Arroyo Los Berros Airport,AR,-41.438981,-66.090185,,
+12310,324366,small_airport,La Caldonia Airport,AR,-32.1306,-61.8935,365.0,
+12311,324367,small_airport,El Ocho Airstrip,AR,-31.799689,-59.703579,257.0,
+12312,324368,small_airport,Timbo Airstrip,AR,-31.8266,-59.0333,187.0,
+12313,324542,small_airport,Puerto San Antonio Este Airstrip,AR,-40.799532,-64.864185,,
+12314,324544,small_airport,Guardia Mitre Airstrip,AR,-40.418091,-63.663347,,
+12315,324545,small_airport,La Sistina Airstrip,AR,-36.974031,-62.436969,,
+12316,324978,small_airport,Anillaco Airport,AR,-28.795111,-66.914675,4264.0,
+12317,327561,small_airport,El Sauzalito Airport,AR,-24.443851,-61.68824,558.0,
+12318,327565,small_airport,Ingeniero Juárez Airport,AR,-23.904822,-61.820092,595.0,
+12319,327584,small_airport,La Cruz Airport,AR,-29.159962,-56.658639,219.0,
+12320,327585,small_airport,Loma Alta Airport,AR,-29.049088,-57.081729,295.0,
+12321,327586,small_airport,Itá Caabó Airport,AR,-29.29287,-57.727213,262.0,
+12322,327589,small_airport,Estancia El Cencerro Airport,AR,-30.534775,-60.438022,164.0,
+12323,327590,small_airport,Estancia El Pinocho,AR,-32.564739,-58.51746,56.0,
+12324,327603,small_airport,Estancia La Elisa Airport,AR,-34.038888,-59.776944,154.0,
+12325,327605,small_airport,Estancia Los Leones Airport,AR,-31.170558,-60.718125,125.0,
+12326,327611,small_airport,Estancia Trebolares Airport,AR,-35.636734,-63.498798,377.0,
+12327,327617,small_airport,Rincón de Luna Airport,AR,-28.470238,-58.249234,180.0,
+12328,327621,small_airport,Finca Porvenir 8 Airport,AR,-24.994562,-64.341664,1732.0,
+12329,327624,small_airport,Cabaña Los Gatos Airport,AR,-27.142412,-61.764272,548.0,
+12330,327625,small_airport,Estancia Las Marias Airport,AR,-32.470437,-66.082103,2116.0,
+12331,327626,heliport,Unidad Regional II de Polcia Heliport,AR,-32.99354,-60.674636,131.0,
+12332,327639,small_airport,Estancia 13 de Abril Airport,AR,-35.515511,-61.758924,276.0,
+12333,327642,closed,Pinto Airport,AR,-29.152266,-62.675025,328.0,
+12334,327644,small_airport,Pichanal-Franzini Airport,AR,-23.338946,-64.247126,1004.0,
+12335,327647,small_airport,Traill Southeast Airport,AR,-31.922586,-61.692139,249.0,
+12336,327651,closed,Los Juries Airport,AR,-28.477432,-62.1226,301.0,
+12337,327652,small_airport,El Cuadrado Airport,AR,-28.285565,-61.764686,325.0,
+12338,333806,closed,Elida 2 Airstrip,AR,-28.159984,-60.475316,215.0,
+12339,333807,small_airport,Los Amores NW Airport,AR,-28.069557,-60.00947,198.0,
+12340,333808,closed,El Amargo Airport,AR,-28.742,-61.741233,249.0,
+12341,333809,closed,Estancia Los Pocitos Airport,AR,-28.564387,-62.524781,350.0,
+12342,333810,closed,Dora Airport,AR,-28.600612,-62.941232,354.0,
+12343,333811,closed,Pozo Cuadrado Airport,AR,-28.915274,-57.050779,243.0,
+12344,333812,small_airport,Santa Juana Airport,AR,-28.955846,-56.742668,215.0,
+12345,333814,closed,Malbrán,AR,-29.356369,-62.451074,295.0,
+12346,333815,closed,Villa Unión Airport,AR,-29.42218,-62.789526,248.0,
+12347,333823,closed,Tres Lagunas Airstrip,AR,-29.372714,-62.037477,255.0,
+12348,333824,closed,Agrodistribuidora Airstrip,AR,-29.220089,-61.760298,220.0,
+12349,333825,small_airport,Estancia La Matilde Airport,AR,-29.356949,-59.872313,174.0,
+12350,333831,small_airport,La Lola Airport,AR,-29.261898,-59.736593,150.0,
+12351,339856,small_airport,Blondi Airport,AR,-30.75769,-63.74818,817.0,
+12352,339864,small_airport,Chajari Sur Airport,AR,-30.80228,-58.014325,226.0,
+12353,340022,heliport,Hospital R. Carrillo Heliport,AR,-32.8518,-60.709189,121.0,
+12354,340023,heliport,Lar de Paz S.A. Heliport,AR,-34.776328,-58.658291,49.0,
+12355,340024,heliport,Homaq Heliport,AR,-34.557353,-59.045919,79.0,
+12356,340025,heliport,Madero Harbour Helipad,AR,-34.620989,-58.360764,259.0,
+12357,340026,heliport,Nordelta Heliport,AR,-34.439664,-58.64215,16.0,
+12358,340027,heliport,Heliplataforma Oceanic Champion,AR,-52.833333,-66.416667,66.0,
+12359,340028,heliport,Heliplataforma Móvil Ocean Scepter,AR,-46.466667,-67.433333,505.0,
+12360,340029,heliport,Puerto Esperanza Heliport,AR,-25.990346,-54.63825,509.0,
+12361,340030,heliport,Heliplataforma Swiber PJW3000,AR,-53.076495,-67.964004,118.0,
+12362,340031,small_airport,Norberto de La Riestra Airport,AR,-35.327705,-59.791042,126.0,
+12363,340036,small_airport,Estancia El Triángulo Airport,AR,-36.349041,-62.226133,341.0,
+12364,340037,small_airport,Hallpa Huayra Airport,AR,-32.207863,-64.533906,1827.0,
+12365,340038,small_airport,Las Totoritas Airport,AR,-33.842439,-65.324836,1470.0,
+12366,341793,small_airport,Aerofumigaciones Bartoli Hermanos Airstrip,AR,-33.471415,-62.327058,404.0,
+12367,343211,small_airport,Estancia Suyai - Lago Pueyrredon Airstrip,AR,-47.365317,-71.97239,522.0,
+12368,343212,small_airport,Mahmet Fumigaciones Aereas Airport,AR,-35.1486,-60.5245,194.0,
+12369,343213,small_airport,Agroaereo Bragado Airport,AR,-35.1755,-60.4563,210.0,
+12370,343214,small_airport,Laguna El Abuelo Airstrip,AR,-35.24815,-60.487,210.0,
+12371,343215,small_airport,Cerro Vanguardia Airstrip,AR,-48.373634,-68.107842,580.0,
+12372,348363,heliport,Malvinas Heroes Hospital Heliport,AR,-34.66941,-58.74199,52.0,
+12373,348444,small_airport,Estancia Santa Elena Airport,AR,-47.78901,-65.92325,144.0,
+12374,348445,small_airport,Estancia 8 de Julio Airport,AR,-47.89627,-66.06144,328.0,
+12375,348446,small_airport,Campamento Darwin Airport,AR,-47.89664,-66.46093,384.0,
+12376,348447,small_airport,Estancia La Chaira Airport,AR,-48.17187,-66.81911,443.0,
+12377,348448,small_airport,Campamento Darwin West Airport,AR,-47.88052,-66.47105,325.0,
+12378,348449,small_airport,Lago Escondido Airport,AR,-54.63158,-67.7555,410.0,
+12379,348451,small_airport,Monte Aymond Airport,AR,-52.12706,-69.50706,538.0,
+12380,348452,closed,Río Gallegos Air Base,AR,-51.64861,-69.20314,56.0,
+12381,348453,small_airport,Monte León Landing Strip,AR,-50.28512,-69.1858,1156.0,
+12382,348454,small_airport,Estancia Las Lagunas Airport,AR,-49.72988,-68.34898,344.0,
+12383,348455,small_airport,El Salado Airport,AR,-48.72272,-67.71851,466.0,
+12384,348456,small_airport,Río Seco Airport,AR,-48.53148,-67.20996,292.0,
+12385,348457,small_airport,Laguna Flamenco Airport,AR,-48.38114,-66.83524,88.0,
+12386,348458,small_airport,Laguna Salada Airport,AR,-48.4233,-66.83072,231.0,
+12387,348459,small_airport,Punta Mercedes Airport,AR,-48.38884,-66.4837,85.0,
+12388,348460,small_airport,Punta Mercedes West Airport,AR,-48.42077,-66.65689,94.0,
+12389,348461,small_airport,Cabo Tres Puntas Airport,AR,-47.12832,-66.06579,471.0,
+12390,348462,small_airport,Estancia La Estrella Airport,AR,-47.31099,-65.9749,407.0,
+12391,348463,small_airport,Tellier Airport,AR,-47.59579,-66.07211,371.0,
+12392,348464,small_airport,Estancia El Polvorin Airport,AR,-47.11292,-66.48299,526.0,
+12393,348465,small_airport,Mazaredo Airport,AR,-47.07713,-66.69364,220.0,
+12394,348466,small_airport,La Floradora Airport,AR,-47.11304,-66.80995,584.0,
+12395,348467,small_airport,Manantiales Behr Compressor Plant Airport,AR,-45.55715,-67.66875,2103.0,
+12396,348468,small_airport,Gravina Peninsula Airport,AR,-45.15064,-66.49068,80.0,
+12397,348469,small_airport,Garayalde Airport,AR,-44.70351,-66.64073,1461.0,
+12398,348470,small_airport,Estancia La Maciega Airport,AR,-44.45854,-65.60563,620.0,
+12399,348471,small_airport,La Lonja Airport,AR,-43.90377,-65.70839,903.0,
+12400,348472,small_airport,Punta Ninfas Airport,AR,-42.97667,-64.3528,241.0,
+12401,348473,small_airport,Punta Mejillón Airport,AR,-40.98547,-64.17166,83.0,
+12402,348474,small_airport,Pico Sayago Airport,AR,-42.815058,-64.026432,181.0,
+12403,348475,small_airport,Haras Wassermann Airport,AR,-40.59622,-62.19203,10.0,
+12404,348476,small_airport,Estancia El Reducto Airport,AR,-39.7964,-62.31613,16.0,
+12405,348477,heliport,Puerto Belgrano Naval Base Heliport,AR,-38.88875,-62.10864,7.0,
+12406,348638,small_airport,Campamento Jorge Cepernic Airport,AR,-50.30009,-70.15045,1270.0,
+12407,348639,small_airport,Las Horquetas Airport,AR,-51.39524,-70.23175,410.0,
+12408,348640,small_airport,Rospentek Airport,AR,-51.66915,-72.13719,591.0,
+12409,348641,small_airport,Estancia Tapi Aike Airport,AR,-51.05038,-71.81291,971.0,
+12410,348642,small_airport,Fuentes de Coyle Airport,AR,-51.03431,-71.48158,932.0,
+12411,348643,small_airport,Estancia Río Bote Airport,AR,-50.26132,-71.72777,581.0,
+12412,348644,small_airport,Gendarme Barreto West Airport,AR,-50.27839,-71.04281,823.0,
+12413,348645,small_airport,Gendarme Barreto Airport,AR,-50.28758,-70.90429,981.0,
+12414,348646,small_airport,Chucuruc Aike Airport,AR,-50.10765,-69.38463,144.0,
+12415,348647,small_airport,Estancia La Julia Airport,AR,-49.58133,-69.59216,299.0,
+12416,348648,small_airport,Casa Riera Airport,AR,-48.40504,-70.56118,1470.0,
+12417,348649,small_airport,Estancia Silvina Airport,AR,-48.35107,-70.80247,1644.0,
+12418,348650,small_airport,Yacimiento el Valle Lago del Desierto Airport,AR,-46.71752,-68.30155,814.0,
+12419,348749,small_airport,Stroeder Southeast Airport,AR,-40.20968,-62.60485,92.0,
+12420,349354,small_airport,Bahía de los Moros Airport,AR,-38.51425,-58.47415,60.0,
+12421,349355,small_airport,Quequén Airport,AR,-38.505,-58.69127,75.0,
+12422,349356,small_airport,Campomar Airport,AR,-38.64912,-59.00613,49.0,
+12423,350009,small_airport,Aeródromo Itatí,AR,-27.288045,-58.244662,207.0,
+12424,350937,small_airport,El Chaltén North Airport,AR,-49.27908,-72.88582,1366.0,
+12425,351892,heliport,San Fernando / Paraná Miní Heliport,AR,-34.171068,-58.510855,16.0,
+12426,354551,heliport,Hospital helipad,AR,-32.911775,-60.681374,,
+12427,354556,heliport,PNA Heliport,AR,-32.943861,-60.632,46.0,
+12428,354557,closed,Santa Fé City Airport,AR,-31.659444,-60.814722,66.0,
+12429,429702,small_airport,Estancia La Pastosa Airport,AR,-42.76575,-63.74213,,
+12430,5837,small_airport,Ushuaia Aeroclub Airport,AR,-54.8227,-68.3043,19.0,SAWO
+12431,517209,small_airport,Aristóbulo del Valle Aeroclub,AR,-27.138559,-54.887205,1542.0,
+19806,298325,small_airport,Aerocampo CSA airport,AR,-31.6614544415,-63.277130127,630.0,CSA
+41932,42797,small_airport,Loncopue Airport,AR,-38.081902,-70.643898,3627.0,
+55497,13,small_airport,Cachi Airport,AR,-25.1049995422,-66.15720367429999,8232.0,SA01
+55498,14,small_airport,Cafayate Airport,AR,-26.056101,-65.936897,5375.0,
+55499,15,small_airport,Villa Minetti Airport,AR,-28.6201,-61.6038,246.0,SA03
+55500,16,small_airport,Isla Martin Garcia Airport,AR,-34.1821,-58.2469,6.0,SAAK
+55501,17,small_airport,Bell Ville Airport,AR,-32.6599,-62.702,429.0,SA05
+55502,18,small_airport,Santa Rita Airport,AR,-35.8283,-60.1467,177.0,SA06
+55503,19,small_airport,El Porton Airport,AR,-37.19432,-69.612619,2853.0,SA07
+55504,20,small_airport,Aeródromo Estancia Don Panos,AR,-26.2959,-59.5353,262.0,SA10
+55505,21,small_airport,Campo Arenal Airport,AR,-27.0723,-66.586098,7622.0,
+55506,22,small_airport,Quemu Quemu Airport,AR,-36.0587,-63.6313,396.0,SA12
+55507,23,small_airport,Estancia La Estrella Airport,AR,-37.559399,-58.666,456.0,SA13
+55508,24,small_airport,Miramar Airport,AR,-38.2271,-57.8697,42.0,SAEM
+55509,35329,small_airport,Lago Fagnano North Airport,AR,-54.499699,-67.173103,600.0,SA15
+55510,25,small_airport,La Puntilla Airport,AR,-32.962799,-68.873703,3091.0,SA16
+55511,26,small_airport,Rio Cuarto Aeroclub Airport,AR,-33.1605987549,-64.3382034302,1423.0,SA17
+55512,35330,small_airport,Puerto Deseado West Airport,AR,-47.7201004028,-65.9324035645,271.0,SA19
+55513,28,small_airport,Loma La Lata Airport,AR,-38.413799,-68.737297,1328.0,
+55514,29,small_airport,Veinticinco De Mayo Airport,AR,-37.8097991943,-67.6593017578,1138.0,SA21
+55515,30,small_airport,Santa Victoria Airport,AR,-22.2856998444,-62.7136993408,918.0,SA22
+55516,31,small_airport,Apóstoles Airport,AR,-27.9032001495,-55.765499115,581.0,SA23
+55517,32,small_airport,Calilegua Airport,AR,-23.7819,-64.749496,1449.0,SA24
+55518,33,small_airport,Cañadon Seco Airport,AR,-46.539,-67.5639,295.0,SA25
+55519,34,small_airport,Bella Vista Airport,AR,-28.5262,-59.0385,180.0,SA26
+55520,35331,small_airport,Puerto Rosales Airport,AR,-38.897098541259766,-62.01029968261719,16.0,SA27
+55521,36,small_airport,Choele Choel Airport,AR,-39.2863998413,-65.6102981567,642.0,SA29
+55522,37,closed,Colonia Catriel Airport,AR,-37.9101982117,-67.8349990845,1026.0,
+55523,38,small_airport,San Nicolas de los Arroyos Airport,AR,-33.3907,-60.1957,98.0,SA31
+55524,39,small_airport,Venado Tuerto Airport,AR,-33.6818,-61.9564,367.0,SAFV
+55525,40,small_airport,Comandante Luis Piedrabuena Airport,AR,-49.9951,-68.9531,78.0,SA33
+55526,41,small_airport,Trelew Aeroclub Airport,AR,-43.2356,-65.3241,127.0,SA34
+55527,42,small_airport,Andalgalá Airport,AR,-27.631701,-66.3508,2952.0,SA35
+55528,43,small_airport,Saladillo Airport,AR,-35.604891,-59.816513,147.0,SA36
+55529,44,small_airport,Las Lajas Airport,AR,-38.538898,-70.337097,2788.0,SA38
+55530,45,small_airport,Jujuy Aeroclub Airport,AR,-24.2364997864,-65.2690963745,4047.0,SA39
+55531,46,small_airport,San Juan Aeroclub Airport,AR,-31.6028003693,-68.5473022461,2079.0,SA40
+55532,35336,small_airport,Aeródromo El Colorado,AR,-26.316687,-59.339764,269.0,SA41
+55533,47,small_airport,Santa Maria Airport,AR,-26.673400878900004,-66.0240020752,5904.0,SA42
+55534,48,small_airport,Londres/Belén Airport,AR,-27.7078990936,-67.0951004028,3936.0,SA44
+55535,49,small_airport,Frias Airport,AR,-28.6343994141,-65.1091995239,1082.0,SA45
+55536,35332,small_airport,Fiambala Airport,AR,-27.6422,-67.624702,5029.0,SA46
+55538,32243,small_airport,San Antonio de Areco Airport,AR,-34.2214,-59.4422,98.0,SAAA
+55539,5764,medium_airport,Comodoro Pierrestegui Airport,AR,-31.2969,-57.9966,112.0,SAAC
+55540,5765,medium_airport,Gualeguaychu Airport,AR,-33.005567,-58.612833,75.0,SAAG
+55541,30303,small_airport,Punta Indio Naval Air Base,AR,-35.353298,-57.290001,49.0,SAAI
+55542,5766,closed,Junin Airport,AR,-34.546359,-60.930487,262.0,
+55543,32244,closed,Mazaruca Airport,AR,-33.596001,-59.266998,20.0,
+55544,5767,small_airport,Pergamino Airport,AR,-33.919,-60.648,236.0,SAAN
+55545,5768,medium_airport,General Urquiza Airport,AR,-31.7948,-60.4804,242.0,SAAP
+55546,5769,medium_airport,Rosario Islas Malvinas International Airport,AR,-32.9036,-60.785,85.0,SAAR
+55547,30530,small_airport,Villaguay Airport,AR,-31.855,-59.0756,131.0,SAAU
+55548,5770,medium_airport,Sauce Viejo Airport,AR,-31.7117,-60.8117,55.0,SAAV
+55549,5771,large_airport,Jorge Newbery Airpark,AR,-34.5592,-58.4156,18.0,SABE
+55550,5772,small_airport,Captain D Omar Darío Gelardi Airport,AR,-31.4419,-64.258202,1594.0,SACA
+55551,30055,small_airport,La Cumbre Airport,AR,-31.0058,-64.531898,3733.0,SACC
+55552,29806,small_airport,Coronel Olmedo Airport,AR,-31.487499,-64.141403,1416.0,SACD
+55553,29803,small_airport,Escuela de Aviación Militar (Military Aviation School) Airport,AR,-31.444223,-64.283377,1646.0,SACE
+55554,41546,small_airport,Pilar Airport,AR,-31.6819992065,-63.8638000488,1072.0,SACI
+55555,39059,small_airport,Laguna Larga Airport,AR,-31.0,-63.0,1013.0,SACL
+55556,41547,small_airport,Villa General Mitre Airport,AR,-30.7006,-64.043098,1760.0,SACM
+55557,39060,small_airport,Ascochinga Airport,AR,-30.96792,-64.27774,677.0,SACN
+55558,5773,medium_airport,Ingeniero Ambrosio Taravella Airport,AR,-31.323601,-64.208,1604.0,SACO
+55559,39061,closed,Chepes Airport,AR,-31.356142,-66.591888,714.0,
+55560,39062,small_airport,Monte Quemado Airport,AR,-25.783563,-62.82884,722.0,SACQ
+55561,41548,small_airport,Villa De Soto Airport,AR,-30.875419,-64.99288,2013.0,SACS
+55562,5774,closed,Chamical Airport,AR,-30.34530067,-66.29360198,1502.0,
+55563,39063,small_airport,Villa Maria Airport,AR,-32.3894004822,-63.2585983276,672.0,SAOI
+55564,29733,closed,Don Torcuato Airport,AR,-34.4981,-58.604198,20.0,
+55565,5775,medium_airport,San Fernando Airport,AR,-34.4532,-58.5896,10.0,SADF
+55566,41549,closed,Monte Grande Airport,AR,-34.805599,-58.492001,30.0,
+55567,5776,small_airport,Mariano Moreno Airport,AR,-34.5606,-58.7896,105.0,SADJ
+55568,5777,medium_airport,La Plata Airport,AR,-34.9722,-57.8947,72.0,SADL
+55569,5778,small_airport,Morón Airport,AR,-34.6763,-58.6428,95.0,SADM
+55570,5779,small_airport,Campo de Mayo Military Airport,AR,-34.5344,-58.6717,78.0,SADO
+55571,5780,medium_airport,El Palomar Airport,AR,-34.6099,-58.6126,59.0,SADP
+55572,30313,small_airport,Quilmes Airport,AR,-34.7064,-58.2444,6.0,SADQ
+55573,41550,closed,Merlo Airport,AR,-34.680283,-58.742658,49.0,
+55574,30377,closed,San Justo Airport,AR,-34.732372,-58.595564,62.0,
+55575,30122,small_airport,Matanza Airport,AR,-34.728367,-58.500855,9.0,SADZ
+55576,39064,small_airport,General Acha Airport,AR,-37.400799,-64.612801,908.0,SAEA
+55577,39065,small_airport,Las Flores Airport,AR,-36.0672,-59.1042,111.0,SAEL
+55578,39066,small_airport,Ñanco Lauquen Airport,AR,-35.9715,-62.7724,301.0,SAET
+55579,5781,large_airport,Minister Pistarini International Airport,AR,-34.8222,-58.5358,67.0,SAEZ
+55580,39067,small_airport,Rafaela Airport,AR,-31.2825,-61.5017,325.0,SAFR
+55582,5782,small_airport,Chos Malal Airport,AR,-37.444698,-70.222504,2788.0,SAHC
+55583,39068,small_airport,Caviahue Airport,AR,-37.851398,-71.009201,5435.0,SAHE
+55584,5783,small_airport,Dr. Arturo H. Illia Airport,AR,-39.000702,-67.620499,852.0,SAHR
+55585,5784,medium_airport,Rincon De Los Sauces Airport,AR,-37.390598,-68.904198,1968.0,SAHS
+55586,5785,medium_airport,Zapala Airport,AR,-38.975498,-70.113602,3330.0,SAHZ
+55588,29889,small_airport,General Alvear Airport,AR,-35.058899,-67.692802,1489.0,SAMA
+55589,41551,small_airport,Cristo Redentor Airport,AR,-32.807300567599995,-70.06819915770001,10477.0,SAMC
+55590,5786,medium_airport,El Plumerillo Airport,AR,-32.8316993713,-68.7929000854,2310.0,SAME
+55591,41552,small_airport,Valle Hermoso Airport,AR,-35.1461982727,-70.2053985596,2500.0,SAMH
+55592,41553,small_airport,Jachal Airport,AR,-30.248242,-68.764791,3790.0,SAMJ
+55593,41554,small_airport,Punta De Vacas Airport,AR,-32.854599,-69.760498,7906.0,SAML
+55594,5787,medium_airport,Comodoro D.R. Salomón Airport,AR,-35.493599,-69.574303,4685.0,SAMM
+55595,30062,small_airport,La Paz Airport,AR,-30.7833,-59.6,200.0,
+55596,30130,small_airport,Mendoza Airpark,AR,-32.8652992249,-68.87190246579999,2694.0,SAMQ
+55597,5788,medium_airport,Suboficial Ay Santiago Germano Airport,AR,-34.588299,-68.4039,2470.0,SAMR
+55598,41555,small_airport,San Carlos Airport,AR,-33.7757,-69.053703,3050.0,SAMS
+55599,32247,small_airport,Uspallata Airport,AR,-32.538898,-69.345802,6525.0,SAMU
+55600,5789,medium_airport,Coronel Felipe Varela International Airport,AR,-28.593117,-65.7512,1522.0,SANC
+55602,5790,medium_airport,Vicecomodoro Angel D. La Paz Aragonés Airport,AR,-27.7655563354,-64.3099975586,656.0,SANE
+55603,39069,small_airport,Las Termas Airport,AR,-27.4737,-64.905502,270.0,SANH
+55604,5791,closed,Tinogasta Airport,AR,-28.037801,-67.580299,3968.0,
+55605,5792,medium_airport,Capitan V A Almonacid Airport,AR,-29.381599,-66.795799,1437.0,SANL
+55606,5793,small_airport,Chilecito Airport,AR,-29.2239,-67.438904,3099.0,SANO
+55607,318304,medium_airport,Termas de Río Hondo international Airport,AR,-27.4966,-64.93595,935.0,SANR
+55608,5794,medium_airport,Teniente Benjamin Matienzo Airport,AR,-26.8409,-65.104897,1493.0,SANT
+55609,5795,medium_airport,Domingo Faustino Sarmiento Airport,AR,-31.571501,-68.418198,1958.0,SANU
+55610,29769,small_airport,Ceres Airport,AR,-29.872292,-61.927925,285.0,SANW
+55611,5796,medium_airport,Area De Material Airport,AR,-33.085098,-64.261299,1380.0,SAOC
+55612,5797,medium_airport,Villa Dolores Airport,AR,-31.9452,-65.146301,1847.0,SAOD
+55613,39070,small_airport,Rio Tercero Airport,AR,-32.173302,-64.088303,1246.0,SAOE
+55614,5798,small_airport,La Quiaca Airport,AR,-22.165264,-65.569918,11414.0,SASQ
+55615,5799,small_airport,Marcos Juarez Airport,AR,-32.6836,-62.157801,360.0,SAOM
+55616,5800,medium_airport,Villa Reynolds Airport,AR,-33.7299003601,-65.3873977661,1591.0,SAOR
+55617,5801,small_airport,Valle Del Conlara International Airport,AR,-32.384701,-65.186501,2021.0,SAOS
+55618,5802,medium_airport,Brigadier Mayor D Cesar Raul Ojeda Airport,AR,-33.273201,-66.3564,2328.0,SAOU
+55619,318502,medium_airport,Presidente Néstor Kirchner Regional Airport,AR,-32.3201,-63.22663,670.0,SAOV
+55620,5803,medium_airport,Corrientes Airport,AR,-27.4455,-58.7619,202.0,SARC
+55621,41556,closed,Resistencia (City) Airport,AR,-27.4657001495,-58.97900009159999,175.0,
+55622,5804,medium_airport,Resistencia International Airport,AR,-27.45,-59.0561,173.0,SARE
+55623,5805,medium_airport,Aeropuerto Nacional de Formosa,AR,-26.2127,-58.2281,193.0,SARF
+55624,41557,small_airport,Caa Cati Airport,AR,-27.755300521900004,-57.6329994202,249.0,SARG
+55625,5806,medium_airport,Cataratas Del Iguazú International Airport,AR,-25.737301,-54.4734,916.0,SARI
+55626,5807,medium_airport,Paso De Los Libres Airport,AR,-29.6894,-57.1521,230.0,SARL
+55627,5808,medium_airport,Monte Caseros Airport,AR,-30.2719,-57.6402,170.0,SARM
+55628,39071,closed,Ituzaingo Airport,AR,-27.5261001587,-56.6333007812,62.0,
+55629,5809,medium_airport,Libertador Gral D Jose De San Martin Airport,AR,-27.3858,-55.9707,430.0,SARP
+55630,39072,small_airport,Villa Angela Airport,AR,-27.5915,-60.6864,246.0,SARV
+55632,5811,medium_airport,Martin Miguel De Guemes International Airport,AR,-24.8560009003,-65.4861984253,4088.0,SASA
+55633,5812,medium_airport,Gobernador Horacio Guzman International Airport,AR,-24.392799,-65.097801,3019.0,SASJ
+55634,41558,small_airport,Salar De Cauchari Airport,AR,-24.0191993713,-66.797203064,13000.0,SASL
+55635,5813,medium_airport,Orán Airport,AR,-23.1528,-64.329201,1171.0,SASO
+55636,5814,small_airport,Laboulaye Airport,AR,-34.135399,-63.362301,449.0,SAOL
+55637,41545,small_airport,Rivadavia Airport,AR,-24.188600540200003,-62.8833999634,679.0,SASR
+55638,5815,medium_airport,General Enrique Mosconi Airport,AR,-22.6196,-63.793701,1472.0,SAST
+55639,29791,small_airport,Aeródromo de Clorinda,AR,-25.3036,-57.7344,206.0,SATC
+55640,5816,small_airport,El Dorado Airport,AR,-26.397499,-54.574699,685.0,SATD
+55641,5817,medium_airport,Goya Airport,AR,-29.1058,-59.2189,128.0,SATG
+55642,41559,small_airport,Bernardo De Irigoyen Airport,AR,-26.281388,-53.673332,2673.0,SATI
+55643,31832,small_airport,Alferez Armando Rodriguez Airport,AR,-24.721399,-60.548801,426.0,SATK
+55644,30131,small_airport,Mercedes Airport,AR,-29.221399,-58.087799,358.0,SATM
+55645,5818,small_airport,Oberá Airport,AR,-27.5182,-55.124199,1125.0,SATO
+55646,5819,medium_airport,Reconquista Airport,AR,-29.2103,-59.68,160.0,SATR
+55647,5820,medium_airport,Curuzu Cuatia Airport,AR,-29.7706,-57.9789,229.0,SATU
+55648,39073,small_airport,Piedra Del Aguila Airport,AR,-40.192199707,-70.0100021362,2128.0,SAVA
+55649,5821,medium_airport,El Bolson Airport,AR,-41.943199,-71.532303,1141.0,SAVB
+55650,5822,medium_airport,General E. Mosconi Airport,AR,-45.7853,-67.4655,189.0,SAVC
+55651,29847,small_airport,El Maiten Airport,AR,-42.029202,-71.172501,2355.0,SAVD
+55652,5823,medium_airport,Brigadier Antonio Parodi Airport,AR,-42.908000946,-71.139503479,2621.0,SAVE
+55653,5824,medium_airport,Las Heras Airport,AR,-46.538517,-68.965323,1082.0,SAVH
+55654,5825,small_airport,Ingeniero Jacobacci - Captain H R Bordón Airport,AR,-41.3209,-69.574898,2925.0,SAVJ
+55655,39074,small_airport,Lago Musters Airport,AR,-45.5752,-69.077,889.0,SAVM
+55656,5826,small_airport,Antoine de Saint Exupéry Airport,AR,-40.7512,-65.0343,85.0,SAVN
+55657,35411,small_airport,San Pedro Airport,AR,-33.704077,-59.725788,88.0,
+55658,39075,small_airport,Paso De Los Indios Airport,AR,-43.8666992188,-69.05000305179999,575.0,SAVP
+55659,30113,small_airport,Maquinchao Airport,AR,-41.2430992126,-68.7078018188,2912.0,SAVQ
+55660,29656,small_airport,D. Casimiro Szlapelis Airport,AR,-45.013599,-70.812202,2286.0,SAVR
+55661,30414,small_airport,Sierra Grande Airport,AR,-41.591702,-65.339401,688.0,SAVS
+55662,5827,medium_airport,Almirante Marco Andres Zar Airport,AR,-43.2105,-65.2703,141.0,SAVT
+55663,5828,medium_airport,Gobernador Castello Airport,AR,-40.8692,-63.0004,20.0,SAVV
+55664,5829,medium_airport,El Tehuelche Airport,AR,-42.7592,-65.1027,427.0,SAVY
+55665,30057,closed,Lago Argentino Airport,AR,-50.336102,-72.248596,732.0,
+55667,5831,medium_airport,El Calafate - Commander Armando Tola International Airport,AR,-50.2803,-72.053101,669.0,SAWC
+55668,5832,medium_airport,Puerto Deseado Airport,AR,-47.7353,-65.9041,268.0,SAWD
+55669,5833,medium_airport,Gobernador Ramón Trejo Noel International Airport,AR,-53.7777,-67.7494,65.0,SAWE
+55670,5834,medium_airport,Piloto Civil N. Fernández Airport,AR,-51.6089,-69.3126,61.0,SAWG
+55671,5835,medium_airport,Malvinas Argentinas Airport,AR,-54.8433,-68.2958,102.0,SAWH
+55672,5836,medium_airport,Capitan D Daniel Vazquez Airport,AR,-49.306816,-67.802596,203.0,SAWJ
+55673,41560,small_airport,Tolhuin Lago Fagnano Airport,AR,-54.499596,-67.172084,90.0,SAWL
+55674,30341,small_airport,Rio Mayo Airport,AR,-45.703899,-70.245598,1784.0,SAWM
+55675,5838,medium_airport,Perito Moreno Airport,AR,-46.537899,-70.978699,1410.0,SAWP
+55676,29898,small_airport,Gobernador Gregores Airport,AR,-48.7831,-70.150002,356.0,SAWR
+55677,29997,small_airport,Jose De San Martin Airport,AR,-44.0485992432,-70.4589004517,2407.0,SAWS
+55678,29849,small_airport,28 de Noviembre Airport,AR,-51.605,-72.2203,909.0,SAWT
+55679,5839,medium_airport,Santa Cruz Airport,AR,-50.0165,-68.5792,364.0,SAWU
+55686,29676,small_airport,Azul Airport,AR,-36.836899,-59.880299,478.0,SAZA
+55687,5840,medium_airport,Comandante Espora Airport,AR,-38.725,-62.1693,246.0,SAZB
+55688,5841,small_airport,Brigadier D.H.E. Ruiz Airport,AR,-37.446098,-61.889301,767.0,SAZC
+55689,32248,small_airport,Dolores Airport,AR,-36.3225,-57.7214,32.0,SAZD
+55690,30260,small_airport,Pigüé Airport,AR,-37.607098,-62.382641,997.0,SAZE
+55691,5842,small_airport,Olavarria Airport,AR,-36.889999,-60.216599,551.0,SAZF
+55692,5843,medium_airport,General Pico Airport,AR,-35.696201,-63.758301,459.0,SAZG
+55693,5844,medium_airport,Tres Arroyos Airport,AR,-38.3869,-60.3297,400.0,SAZH
+55694,5845,small_airport,Bolívar Airport,AR,-36.1866,-61.0764,308.0,SAZI
+55695,29998,small_airport,Benito Juarez Airport,AR,-37.7061,-59.791901,682.0,SAZJ
+55696,41562,small_airport,Cerro Catedral Airport,AR,-41.1633,-71.442703,3450.0,SAZK
+55697,5846,medium_airport,Santa Teresita Airport,AR,-36.5423,-56.7218,9.0,SAZL
+55698,5847,medium_airport,Ástor Piazzola International Airport,AR,-37.9342,-57.5733,72.0,SAZM
+55699,5848,medium_airport,Presidente Peron Airport,AR,-38.949001,-68.155701,895.0,SAZN
+55700,5849,medium_airport,Necochea Airport,AR,-38.490746,-58.816337,72.0,SAZO
+55701,5850,medium_airport,Comodoro Pedro Zanni Airport,AR,-35.8446,-61.8576,278.0,SAZP
+55702,30339,small_airport,Rio Colorado Airport,AR,-38.995,-64.1408,275.0,SAZQ
+55703,5851,medium_airport,Santa Rosa Airport,AR,-36.588299,-64.275703,630.0,SAZR
+55704,5852,medium_airport,San Carlos De Bariloche Airport,AR,-41.151199,-71.157501,2774.0,SAZS
+55705,5853,medium_airport,Héroes De Malvinas Airport,AR,-37.234634,-59.228647,574.0,SAZT
+55706,39081,small_airport,Puelches Airport,AR,-38.145103,-65.922943,180.0,SAZU
+55707,5854,medium_airport,Villa Gesell Airport,AR,-37.2354,-57.0292,32.0,SAZV
+55708,5855,medium_airport,Cutral-Co Airport,AR,-38.939701,-69.264603,2132.0,SAZW
+55709,30202,small_airport,Nueve de Julio Airport,AR,-35.3997,-60.9358,246.0,SAZX
+55710,5856,medium_airport,Aviador C. Campos Airport,AR,-40.075401,-71.137299,2569.0,SAZY
+56103,342657,small_airport,Lago Viedma Airstrip,AR,-49.410757,-72.780266,903.0,

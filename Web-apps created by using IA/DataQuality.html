@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Perfilado de Datos</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body class="bg-gray-100 p-6 font-sans">
+
+  <!-- Cargar Archivo CSV -->
+  <div class="mb-6">
+    <label class="block text-lg font-semibold text-gray-700 mb-2">Sube un archivo CSV (límite de columnas: 5000):</label>
+    <input type="file" id="csvFileInput" accept=".csv" class="mt-2 p-2 border rounded bg-white shadow-sm">
+  </div>
+
+  <!-- Aviso de visualización de solo 15 filas -->
+  <div id="avisoFilas" class="hidden text-sm text-gray-600 mb-4">
+    <p>Solo se mostrarán las primeras 15 filas del archivo. Se analizará todo el contenido del archivo.</p>
+  </div>
+
+  <!-- Tabla para mostrar CSV cargado -->
+  <div class="overflow-x-auto mb-6">
+    <table id="dataTable" class="table-auto w-full border-collapse bg-white shadow-md rounded hidden">
+      <thead>
+        <tr id="tableHeader" class="bg-gray-200 text-gray-800"></tr>
+      </thead>
+      <tbody id="tableBody"></tbody>
+    </table>
+  </div>
+
+  <!-- Panel de Selección de Columnas -->
+  <div id="columnSelectPanel" class="mt-6 hidden">
+    <h3 class="text-xl font-semibold mb-4 text-gray-700">Selecciona las columnas para el análisis:</h3>
+    <div id="columnCheckboxes" class="flex flex-wrap gap-4"></div>
+    <button onclick="generarPerfilado()" class="bg-blue-500 text-white px-4 py-2 rounded mt-4 hover:bg-blue-600">Generar Perfilado</button>
+  </div>
+
+  <!-- Resultados del Perfilado -->
+  <div id="resumenPerfilado" class="mt-8 hidden">
+    <h3 class="text-2xl font-semibold text-gray-700 mb-4">Resumen de Perfilado de Datos</h3>
+    <div id="summaryMetrics" class="bg-white p-4 shadow rounded mb-6"></div>
+    <div id="columnMetrics" class="bg-white p-4 shadow rounded mb-6"></div>
+    <canvas id="paretoChart" class="mt-6 hidden"></canvas>
+    <div class="mt-4 text-center">
+      <p class="text-lg font-semibold text-gray-700">
+        Para análisis más profundos, haz click <a href="https://intidata.ee" target="_blank" class="text-blue-500 underline">aquí</a>.
+      </p>
+    
+    </div>
+  </div>
+
+  <!-- Botón para refrescar la página -->
+  <div id="refreshButtonPanel" class="mt-6 hidden">
+    <button onclick="refreshPage()" class="bg-gray-500 text-white px-4 py-2 rounded hover:bg-gray-600">Refrescar Página</button>
+  </div>
+
+  <script>
+    let csvData = [];
+    let selectedColumns = [];
+
+    // Leer el archivo CSV
+    document.getElementById("csvFileInput").addEventListener("change", (event) => {
+      const file = event.target.files[0];
+      const reader = new FileReader();
+      reader.onload = (e) => {
+        const text = e.target.result;
+        csvData = parseCSV(text);
+        if (csvData[0].length > 5000) {
+          alert("El archivo tiene más de 5000 columnas, por favor sube un archivo con menos columnas.");
+          return;
+        }
+        displayTable(csvData);
+        displayColumnSelection(csvData[0]);
+      };
+      reader.readAsText(file);
+    });
+
+    // Parsear CSV a un array de objetos
+    function parseCSV(text) {
+      const rows = text.trim().split("\n").map(row => row.split(","));
+      const headers = rows[0];
+      const data = rows.slice(1).map(row => headers.reduce((acc, header, index) => {
+        acc[header] = row[index];
+        return acc;
+      }, {}));
+      return [headers, data];
+    }
+
+    // Mostrar la tabla (solo las primeras 15 filas)
+    function displayTable([headers, data]) {
+      document.getElementById("dataTable").classList.remove("hidden");
+      document.getElementById("avisoFilas").classList.remove("hidden");
+
+      const headerRow = document.getElementById("tableHeader");
+      headerRow.innerHTML = headers.map(h => `<th class="px-4 py-2 border">${h}</th>`).join("");
+
+      const body = document.getElementById("tableBody");
+      body.innerHTML = data.slice(0, 15).map(row => `<tr>${headers.map(h => `<td class="px-4 py-2 border">${row[h]}</td>`).join("")}</tr>`).join("");
+    }
+
+    // Mostrar panel de selección de columnas
+    function displayColumnSelection(headers) {
+      document.getElementById("columnSelectPanel").classList.remove("hidden");
+      const checkboxes = document.getElementById("columnCheckboxes");
+      checkboxes.innerHTML = headers.map(h => 
+        `<label class="block text-gray-700">
+          <input type="checkbox" value="${h}" class="mr-2">${h}
+        </label>`).join("");
+    }
+
+    // Generar perfilado de datos
+    function generarPerfilado() {
+      const checkboxes = document.querySelectorAll("#columnCheckboxes input:checked");
+      selectedColumns = Array.from(checkboxes).map(cb => cb.value);
+      const data = csvData[1];
+      const summary = calcularResumen(data);
+      mostrarResumen(summary);
+      generarGraficoPareto(summary);
+      document.getElementById("refreshButtonPanel").classList.remove("hidden");  // Mostrar botón de refrescar
+    }
+
+    // Calcular resumen de perfilado
+    function calcularResumen(data) {
+      const summary = {
+        totalObservaciones: data.length,
+        totalVariables: selectedColumns.length,
+        variables: {},
+        totalFaltantes: 0,
+        totalDuplicados: 0
+      };
+
+      const seenRows = new Set();
+      data.forEach(row => {
+        const rowString = JSON.stringify(row);
+        if (seenRows.has(rowString)) summary.totalDuplicados++;
+        seenRows.add(rowString);
+
+        selectedColumns.forEach(col => {
+          const value = row[col];
+          if (!summary.variables[col]) {
+            summary.variables[col] = { tipo: detectarTipo(value), faltantes: 0, duplicados: 0, valores: [], categorias: new Set() };
+          }
+          if (!value) summary.variables[col].faltantes++;
+          if (value) summary.variables[col].categorias.add(value);
+          summary.variables[col].valores.push(value);
+        });
+      });
+
+      summary.totalFaltantes = selectedColumns.reduce((acc, col) => acc + summary.variables[col].faltantes, 0);
+      return summary;
+    }
+
+    // Detectar tipo de variable
+    function detectarTipo(value) {
+      if (!isNaN(value) && value !== "") return "Numérica";
+      else if (value && value.length <= 10) return "Categórica";
+      else return "Texto";
+    }
+
+    // Mostrar resumen de perfilado
+    function mostrarResumen(summary) {
+      document.getElementById("resumenPerfilado").classList.remove("hidden");
+      const summaryMetrics = 
+        `<p><strong>Número de variables:</strong> ${summary.totalVariables}</p>
+        <p><strong>Número de observaciones:</strong> ${summary.totalObservaciones}</p>
+        <p><strong>Valores faltantes totales:</strong> ${summary.totalFaltantes}</p>
+        <p><strong>Valores faltantes (porcentaje):</strong> ${((summary.totalFaltantes / (summary.totalObservaciones * summary.totalVariables)) * 100).toFixed(2)}%</p>
+        <p><strong>Valores duplicados de filas:</strong> ${summary.totalDuplicados} (${((summary.totalDuplicados / summary.totalObservaciones) * 100).toFixed(2)}%)</p>`;
+      document.getElementById("summaryMetrics").innerHTML = summaryMetrics;
+
+      const columnMetrics = Object.entries(summary.variables).map(([col, stats]) => {
+        const tipoInfo = `<p><strong>Tipo:</strong> ${stats.tipo}</p>
+                          <p><strong>Faltantes:</strong> ${stats.faltantes}</p>
+                          <p><strong>Categorías únicas:</strong> ${stats.categorias.size}</p>`;
+        const minMaxInfo = stats.tipo === "Numérica" 
+          ? `<p><strong>Valor mínimo:</strong> ${calcularMinimo(stats.valores)}</p><p><strong>Valor máximo:</strong> ${calcularMaximo(stats.valores)}</p>`
+          : "";
+        return `<div class="border p-4 mb-4">
+          <h4 class="text-xl font-semibold">${col}</h4>
+          <p><strong>Media:</strong> ${calcularMedia(stats.valores)}</p>
+          <p><strong>Mediana:</strong> ${calcularMediana(stats.valores)}</p>
+          ${tipoInfo}
+          ${minMaxInfo}
+        </div>`;
+      }).join("");
+      document.getElementById("columnMetrics").innerHTML = columnMetrics;
+    }
+
+    // Calcular mínimo
+    function calcularMinimo(valores) {
+      const numVals = valores.filter(v => !isNaN(v) && v !== "");
+      return numVals.length > 0 ? Math.min(...numVals) : "N/A";
+    }
+
+    // Calcular máximo
+    function calcularMaximo(valores) {
+      const numVals = valores.filter(v => !isNaN(v) && v !== "");
+      return numVals.length > 0 ? Math.max(...numVals) : "N/A";
+    }
+
+    // Calcular media
+    function calcularMedia(valores) {
+      const numVals = valores.filter(v => !isNaN(v) && v !== "").map(Number);
+      return numVals.length > 0 ? (numVals.reduce((acc, val) => acc + val, 0) / numVals.length).toFixed(2) : "N/A";
+    }
+
+    // Calcular mediana
+    function calcularMediana(valores) {
+      const numVals = valores.filter(v => !isNaN(v) && v !== "").map(Number).sort((a, b) => a - b);
+      const mid = Math.floor(numVals.length / 2);
+      return numVals.length > 0 ? (numVals.length % 2 !== 0 ? numVals[mid] : ((numVals[mid - 1] + numVals[mid]) / 2).toFixed(2)) : "N/A";
+    }
+
+    // Generar gráfico de Pareto
+    function generarGraficoPareto(summary) {
+      const labels = Object.keys(summary.variables);
+      const faltantes = Object.values(summary.variables).map(col => col.faltantes);
+      const ctx = document.getElementById("paretoChart").getContext("2d");
+      new Chart(ctx, {
+        type: 'bar',
+        data: { labels, datasets: [{ label: 'Valores faltantes', data: faltantes, backgroundColor: 'rgba(75, 192, 192, 0.2)', borderColor: 'rgba(75, 192, 192, 1)', borderWidth: 1 }] },
+        options: { scales: { y: { beginAtZero: true } } }
+      });
+      document.getElementById("paretoChart").classList.remove("hidden");
+    }
+
+    // Refrescar página
+    function refreshPage() {
+      location.reload();
+    }
+  </script>
+
+</body>
+</html>
